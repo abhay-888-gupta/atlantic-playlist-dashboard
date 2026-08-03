@@ -1,0 +1,944 @@
+song,artist,days_on_chart,average_rank,best_rank,rank_volatility_index,avg_popularity,peak_popularity,duration_min,album_type,total_tracks,is_explicit,first_seen,last_seen
+"""Slut!"" (Taylor's Version) (From The Vault)",Taylor Swift,26,15.5,3,12.13,86.77,91,3.01,album,21,False,2024-10-29,2024-11-23
+(Don't Fear) The Reaper,Blue Öyster Cult,1,50.0,50,0.0,77.0,77,5.14,album,10,False,2025-11-02,2025-11-02
+(There's No Place Like) Home for the Holidays - 1959 Version,Perry Como,2,45.0,45,0.0,70.0,70,2.93,album,10,False,2024-12-26,2024-12-27
+16 CARRIAGES,Beyoncé,10,26.0,16,10.64,64.5,81,3.89,single,1,False,2025-02-14,2025-04-05
+2 hands,Tate McRae,7,33.57,8,12.29,76.57,80,3.03,single,2,True,2025-11-17,2025-11-23
+28,Zach Bryan,100,27.57,10,12.26,84.87,87,3.89,album,19,False,2025-07-06,2025-10-26
+3001,J. Cole,1,32.0,32,0.0,68.0,68,2.63,album,12,True,2025-04-07,2025-04-07
+360,Charli xcx,43,34.05,19,9.6,87.7,89,2.23,album,15,True,2025-07-18,2025-08-31
+3D (feat. Jack Harlow),Jung Kook & Jack Harlow,12,26.33,9,18.43,66.25,88,3.36,single,3,True,2024-09-30,2024-10-11
+500lbs,Lil Tecca,186,24.83,12,10.01,83.39,88,2.41,album,16,True,2024-09-24,2025-04-20
+505,Arctic Monkeys,17,43.76,36,3.75,80.18,84,4.23,album,12,False,2025-09-09,2025-10-02
+57,KAROL G & Feid & DFZM,1,47.0,47,0.0,69.0,69,4.97,single,1,True,2025-11-10,2025-11-10
+7 Minute Drill,J. Cole,7,16.57,3,11.67,78.86,82,3.54,album,12,True,2025-04-07,2025-04-13
+7969 Santa,Drake,7,15.0,9,4.86,67.14,82,4.33,album,23,True,2024-10-07,2024-10-13
+8am in Charlotte,Drake,7,14.71,13,1.7,66.57,82,4.45,album,23,True,2024-10-07,2024-10-13
+A Bar Song (Tipsy),Shaboozey,226,10.77,1,8.68,85.39,96,2.85,single,1,True,2025-04-14,2025-11-27
+A Holly Jolly Christmas,Burl Ives,37,13.65,7,9.59,87.73,91,2.26,album,12,False,2024-11-20,2024-12-27
+A Night To Remember,beabadoobee & Laufey,1,32.0,32,0.0,0.0,0,3.89,single,1,False,2024-10-21,2024-10-21
+ACHO PR,Bad Bunny,2,28.0,28,0.0,39.0,78,5.99,album,22,True,2024-10-14,2024-10-15
+ADIVINO,Myke Towers & Bad Bunny,3,40.67,36,4.04,85.0,89,4.64,single,1,True,2025-04-28,2025-07-16
+ALL RED,Playboi Carti,20,18.3,1,10.55,89.25,91,2.47,single,1,True,2025-09-15,2025-10-04
+ALLIIGATOR TEARS,Beyoncé,4,34.5,22,12.07,50.0,52,2.99,album,27,False,2025-03-31,2025-04-03
+AMERICA HAS A PROBLEM (feat. Kendrick Lamar),Beyoncé & Kendrick Lamar,10,31.6,12,13.95,77.9,84,4.35,single,1,True,2024-05-22,2024-06-03
+AMERIICAN REQUIEM,Beyoncé,6,25.5,6,15.55,55.5,58,5.42,album,27,False,2025-03-31,2025-04-05
+AMG,Natanael Cano & Peso Pluma & Gabito Ballesteros,34,33.06,20,8.49,94.24,95,2.92,single,1,True,2024-05-18,2024-06-20
+ANTHEM PART 3,blink-182,1,40.0,40,0.0,0.0,0,3.55,album,17,True,2024-10-21,2024-10-21
+APT.,ROSÉ & Bruno Mars,39,9.05,1,5.3,94.72,98,2.83,single,1,False,2025-10-20,2025-11-27
+ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN),Don Toliver,1,39.0,39,0.0,63.0,63,2.68,album,16,True,2025-06-18,2025-06-18
+Abracadabra (feat. Travis Scott),Young Thug,1,49.0,49,0.0,69.0,69,4.13,album,15,True,2024-06-25,2024-06-25
+Agora Hills,Doja Cat,175,22.47,6,12.67,81.63,86,4.42,album,15,True,2024-09-24,2025-03-23
+Ain't No Love,Future & Metro Boomin,1,27.0,27,0.0,0.0,0,3.05,album,17,True,2025-03-24,2025-03-24
+Ain't No Love In Oklahoma (From Twisters: The Album),Luke Combs,121,31.21,15,9.55,83.65,86,3.52,single,1,False,2025-05-19,2025-10-26
+Ain't No Mountain High Enough,Marvin Gaye & Tammi Terrell,1,50.0,50,0.0,87.0,87,2.53,album,12,False,2024-11-24,2024-11-24
+Ain't No Sunshine,Bill Withers,1,49.0,49,0.0,86.0,86,2.08,album,12,False,2025-04-10,2025-04-10
+All Alone,Lil Uzi Vert,1,22.0,22,0.0,72.0,72,3.71,album,26,True,2024-07-02,2024-07-02
+All I Want for Christmas Is You,Mariah Carey,75,17.27,2,15.16,91.0,100,4.02,album,10,False,2024-11-02,2025-11-27
+All My Life (feat. J. Cole),Lil Durk & J. Cole,96,20.76,3,15.47,82.99,89,3.73,single,1,True,2024-05-18,2024-08-25
+All Summer Long,Kid Rock,2,28.0,28,0.0,78.5,79,4.96,album,12,False,2024-07-05,2024-07-06
+All The Parties (feat. Chief Keef),Drake,7,26.43,17,7.83,65.14,80,3.64,album,23,True,2024-10-07,2024-10-13
+All The Stars (with SZA),Kendrick Lamar & SZA,1,46.0,46,0.0,87.0,87,3.87,album,14,True,2025-05-11,2025-05-11
+"All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert)",Metro Boomin,6,43.0,27,8.07,77.17,81,4.09,album,13,False,2024-06-04,2024-06-09
+All You Had To Do Was Stay (Taylor's Version),Taylor Swift,9,27.0,11,13.3,75.22,86,3.22,album,21,False,2024-10-29,2024-11-06
+"Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",Metro Boomin,28,24.07,12,10.69,87.71,92,4.27,album,13,False,2024-06-04,2024-07-01
+Amen (feat. Teezo Touchdown),Drake,7,17.71,7,8.44,67.14,82,2.35,album,23,True,2024-10-07,2024-10-13
+American Girl,Tom Petty and the Heartbreakers,4,22.5,11,16.5,75.0,78,3.58,album,10,False,2024-07-05,2025-07-07
+American Kids,Kenny Chesney,3,43.67,43,0.58,78.0,79,3.05,album,11,False,2024-07-05,2025-07-06
+American Nights,Zach Bryan,8,25.25,13,11.45,73.62,78,3.65,album,19,False,2025-07-06,2025-07-14
+American Pie,Don McLean,3,24.67,15,16.74,80.0,82,8.61,album,10,False,2024-07-05,2025-07-06
+Amped,Lil Uzi Vert,2,23.5,10,19.09,75.5,77,2.88,album,26,True,2024-07-02,2024-07-03
+"Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",Metro Boomin,28,18.36,5,13.35,88.11,92,3.86,album,13,False,2024-06-04,2024-07-01
+Another Late Night (feat. Lil Yachty),Drake,7,25.43,19,5.97,65.14,80,2.84,album,23,True,2024-10-07,2024-10-13
+Anti-Hero,Taylor Swift,120,32.21,12,10.49,93.91,95,3.34,album,13,False,2024-05-18,2025-02-07
+Antichrist,Eminem,4,39.5,18,14.36,76.0,79,5.24,album,19,True,2025-07-14,2025-07-17
+Apple,Charli xcx,47,31.7,15,8.8,87.68,90,2.53,album,15,False,2025-07-25,2025-09-10
+Aquí Te Espero,Ivan Cornejo,1,37.0,37,0.0,0.0,0,4.26,single,1,False,2024-07-29,2024-07-29
+Are You Gone Already,Nicki Minaj,1,18.0,18,0.0,72.0,72,4.51,album,22,False,2024-12-10,2024-12-10
+Area Codes,Kali,53,22.19,12,10.15,88.58,91,2.32,single,1,True,2024-05-18,2024-07-16
+As Good As I Once Was,Toby Keith,2,32.0,16,22.63,76.0,77,3.8,album,12,False,2025-02-08,2025-02-09
+As It Was,Harry Styles,92,33.72,23,6.79,92.78,94,2.79,album,13,False,2024-05-18,2025-01-03
+Attention,Doja Cat,14,18.79,3,12.13,83.79,88,4.62,single,1,True,2024-06-18,2024-07-01
+Austin,Dasha,64,32.23,14,8.63,84.8,92,2.86,album,8,True,2025-03-15,2025-05-30
+Austin (Boots Stop Workin'),Dasha,134,31.97,19,7.52,90.25,92,2.86,album,8,True,2025-05-31,2025-10-21
+Away From Home,Drake,6,30.5,23,6.02,61.67,78,4.31,album,23,True,2024-10-07,2024-10-12
+Aye (feat. Travis Scott),Lil Uzi Vert,3,10.67,4,7.02,79.33,81,3.46,album,26,True,2024-07-02,2024-07-04
+BABY NUEVA,Bad Bunny,6,26.33,13,12.61,68.83,87,4.01,album,22,True,2024-10-14,2024-10-19
+BACK TO ME,Kanye West & Ty Dolla $ign,11,26.45,3,18.54,67.55,86,4.92,album,16,True,2025-02-12,2025-02-22
+BAND4BAND (feat. Lil Baby),Central Cee & Lil Baby,34,24.91,11,12.43,86.62,90,2.35,single,1,True,2025-05-28,2025-06-30
+BANDIT,Don Toliver,6,40.0,30,6.54,54.67,71,2.46,album,16,True,2025-06-16,2025-06-23
+BATICANO,Bad Bunny,2,27.0,27,0.0,39.0,78,4.27,album,22,True,2024-10-14,2024-10-15
+BBL Love - Interlude,Drake,5,38.8,24,12.3,57.8,76,2.69,album,23,True,2024-10-07,2024-10-11
+BEG FORGIVENESS,Kanye West & Ty Dolla $ign,4,29.25,21,7.68,59.75,82,6.15,album,16,True,2025-02-13,2025-02-16
+BELLAKEO,Peso Pluma & Anitta,27,42.41,30,6.56,92.78,95,3.29,single,1,True,2024-12-28,2025-01-30
+BEST INTEREST,"Tyler, The Creator",3,44.33,44,0.58,82.33,83,2.13,single,1,True,2025-10-30,2025-11-01
+BIRDS OF A FEATHER,Billie Eilish,191,5.26,2,3.12,97.16,100,3.51,album,10,False,2025-05-19,2025-11-27
+BITTERSUITE,Billie Eilish,10,31.6,19,12.48,81.8,87,4.97,album,10,False,2025-05-19,2025-05-30
+BLACKBIIRD,Beyoncé,5,22.2,7,11.82,54.6,58,2.2,album,27,False,2025-03-31,2025-04-04
+BLUE,Billie Eilish,21,29.43,17,9.21,86.86,90,5.72,album,10,False,2025-05-19,2025-06-08
+BODYGUARD,Beyoncé,10,23.2,8,12.23,81.3,84,4.0,album,27,True,2025-03-31,2025-04-09
+BROTHER STONE (FEAT. KODAK BLACK),Don Toliver,1,46.0,46,0.0,0.0,0,3.38,album,16,True,2025-06-16,2025-06-16
+BURN,Kanye West & Ty Dolla $ign,26,22.12,6,9.8,80.23,89,1.86,album,16,True,2025-02-13,2025-03-10
+BYE,Peso Pluma,9,38.11,22,9.36,69.67,77,3.55,album,14,True,2024-06-25,2024-07-07
+Baby Please,Ivan Cornejo,1,46.0,46,0.0,66.0,66,2.97,single,1,False,2025-03-17,2025-03-17
+"Baby, It's Cold Outside",Dean Martin,3,39.33,37,4.04,83.0,83,2.4,album,12,False,2024-12-25,2024-12-27
+Back To December (Taylor's Version),Taylor Swift,11,20.82,2,19.08,81.45,91,4.9,album,22,False,2024-07-09,2024-07-19
+Bad Blood (Taylor's Version),Taylor Swift,4,29.75,17,11.7,62.0,84,3.52,album,21,False,2024-10-29,2024-11-01
+Bad Blood (feat. Kendrick Lamar) (Taylor's Version),Taylor Swift,3,31.0,27,4.0,75.33,78,3.33,album,22,False,2024-10-29,2024-10-31
+Bad Habit,Steve Lacy,34,44.12,35,3.45,85.0,85,3.87,album,10,True,2024-05-18,2024-06-24
+Bad One,Eminem,1,35.0,35,0.0,69.0,69,4.5,album,19,True,2025-07-14,2025-07-14
+Bahamas Promises,Drake,7,20.14,10,6.28,66.0,81,3.07,album,23,True,2024-10-07,2024-10-13
+Balloon (feat. Doechii),"Tyler, The Creator",13,29.31,13,11.25,80.0,82,2.57,album,14,True,2025-10-30,2025-11-21
+Bandit,Don Toliver,50,36.96,9,9.74,85.84,88,2.46,single,1,True,2025-02-04,2025-05-10
+Barbie Dangerous,Nicki Minaj,1,19.0,19,0.0,71.0,71,2.21,album,22,True,2024-12-10,2024-12-10
+Barbie World (with Aqua) [From Barbie The Album],Nicki Minaj & Ice Spice & Aqua,104,18.75,1,14.0,92.01,95,1.83,single,1,True,2024-06-25,2024-10-06
+Beautiful Things,Benson Boone,307,14.7,1,8.94,90.83,100,3.01,single,1,False,2025-01-21,2025-11-27
+Bed Chem,Sabrina Carpenter,96,16.26,6,10.63,89.86,93,2.86,album,12,False,2025-08-24,2025-11-27
+Beep Beep,Nicki Minaj,1,43.0,43,0.0,70.0,70,1.59,album,22,True,2024-12-10,2024-12-10
+Beer For My Horses,Toby Keith,1,18.0,18,0.0,74.0,74,3.4,album,13,False,2025-02-08,2025-02-08
+Belong Together,Mark Ambor,3,48.0,47,1.0,93.0,93,2.47,single,1,False,2025-05-16,2025-05-18
+Better Days (feat. John Mayer),Zach Bryan,7,29.71,24,7.13,71.0,76,3.54,album,19,False,2025-07-06,2025-07-13
+Better Than Revenge (Taylor's Version),Taylor Swift,7,17.86,5,12.56,74.71,89,3.67,album,22,False,2024-07-09,2024-07-15
+Big Dawgs,Hanumankind & Kalmi,59,28.17,13,10.65,89.78,93,3.18,single,1,True,2025-07-31,2025-10-01
+Big Difference,Nicki Minaj,1,49.0,49,0.0,69.0,69,3.19,album,22,True,2024-12-10,2024-12-10
+Big Foot,Nicki Minaj,2,16.5,10,9.19,73.5,75,4.37,single,2,True,2025-01-31,2025-02-01
+Blank Space,Taylor Swift,21,37.14,12,10.16,82.95,83,3.86,album,13,False,2024-08-10,2024-10-28
+Blank Space (Taylor's Version),Taylor Swift,11,22.27,7,12.35,79.27,89,3.86,album,21,False,2024-10-29,2024-11-08
+Blinding Lights,The Weeknd,1,46.0,46,0.0,92.0,92,3.33,album,14,False,2024-11-01,2024-11-01
+Bloody Mary,Lady Gaga,1,32.0,32,0.0,73.0,73,4.08,album,22,False,2025-11-02,2025-11-02
+Blue Christmas,Elvis Presley,30,33.07,16,10.71,86.13,89,2.15,album,12,False,2024-11-25,2024-12-27
+Bongos (feat. Megan Thee Stallion),Cardi B & Megan Thee Stallion,9,36.67,26,7.11,78.67,82,2.92,single,1,True,2024-09-10,2024-09-18
+Boons,Zach Bryan,1,37.0,37,0.0,64.0,64,3.09,album,19,False,2025-07-06,2025-07-06
+Born in the U.S.A.,Bruce Springsteen,4,17.75,8,17.56,77.75,80,4.64,album,12,False,2024-07-05,2025-07-07
+Boy's a Liar Pt. 2,PinkPantheress & Ice Spice,100,24.87,9,10.61,94.21,96,2.18,single,2,False,2024-05-18,2024-09-05
+Boys Of Faith (feat. Bon Iver),Zach Bryan & Bon Iver,8,25.75,13,14.84,55.5,68,2.85,single,1,True,2024-09-24,2024-10-01
+Brand New Dance,Eminem,6,27.5,10,13.79,78.67,81,3.44,album,19,True,2025-07-14,2025-07-19
+Breaking News - skit,Eminem,1,31.0,31,0.0,69.0,69,0.62,album,19,True,2025-07-14,2025-07-14
+Breathe,Yeat,38,23.21,14,7.27,83.87,87,2.85,album,22,True,2025-02-18,2025-03-30
+Brown Eyed Girl,Van Morrison,3,40.0,29,9.54,85.0,85,3.06,album,8,False,2025-07-06,2025-07-08
+But Daddy I Love Him,Taylor Swift,33,21.18,5,12.76,83.67,84,5.67,album,16,True,2025-04-21,2025-05-23
+Bye,Peso Pluma,24,29.46,21,5.28,87.71,91,3.55,single,1,True,2024-06-02,2024-07-01
+Bye Bye Bye - From Deadpool and Wolverine Soundtrack,*NSYNC,16,36.31,24,5.92,85.25,89,3.34,album,12,False,2025-07-31,2025-08-16
+CARNIVAL,Kanye West & Ty Dolla $ign,107,16.42,1,17.78,92.2,97,4.41,album,16,True,2025-02-12,2025-05-31
+CHIHIRO,Billie Eilish,56,21.77,5,14.14,91.48,95,5.06,album,10,False,2025-05-19,2025-07-25
+CIRCUS MAXIMUS,Travis Scott,3,17.67,12,5.51,54.33,83,4.31,album,19,True,2024-07-29,2024-07-31
+CIRCUS MAXIMUS (feat. The Weeknd & Swae Lee),Travis Scott,5,28.6,23,4.93,86.2,87,4.31,album,19,True,2024-08-01,2024-08-05
+CS,Lil Uzi Vert,1,27.0,27,0.0,20.0,20,3.53,album,26,False,2024-07-02,2024-07-02
+CYBERTRUCK,Bad Bunny,5,19.8,7,11.71,65.8,86,3.2,album,22,True,2024-10-14,2024-10-18
+California Sober (Feat. Chris Stapleton),Post Malone,6,34.33,17,11.5,66.83,75,3.41,album,18,True,2025-08-17,2025-08-22
+Call Your Friends,Rod Wave,1,33.0,33,0.0,0.0,0,2.55,single,1,True,2024-08-19,2024-08-19
+Call Your Mom,Noah Kahan,1,35.0,35,0.0,66.0,66,4.64,album,21,False,2024-06-11,2024-06-11
+"Calling (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, NAV, feat. A Boogie Wit da Hoodie)",Metro Boomin,31,16.23,4,10.14,89.48,94,3.66,album,13,False,2024-06-04,2024-07-08
+Calling For You (feat. 21 Savage),Drake,7,8.14,4,4.74,68.57,84,4.76,album,23,True,2024-10-07,2024-10-13
+Calm Down (with Selena Gomez),Rema,52,42.56,35,3.71,81.4,84,3.99,album,22,False,2024-05-18,2025-01-03
+Can’t Catch Me Now - from The Hunger Games: The Ballad of Songbirds & Snakes,Olivia Rodrigo,43,35.6,13,10.67,77.0,86,3.42,single,1,False,2024-11-04,2025-01-12
+Cars Bring Me Out (feat. Future),Young Thug,1,17.0,17,0.0,71.0,71,3.38,album,15,True,2024-06-25,2024-06-25
+Cassandra,Taylor Swift,7,39.57,32,7.21,81.86,85,4.0,album,31,True,2025-04-21,2025-04-27
+Castles Crumbling (feat. Hayley Williams) (Taylor’s Version) (From The Vault),Taylor Swift,7,15.57,10,9.09,73.57,87,5.1,album,22,False,2024-07-09,2024-07-15
+Casual,Chappell Roan,81,41.75,29,5.82,85.98,87,3.88,album,14,True,2025-07-20,2025-10-17
+"Changes In Latitudes, Changes In Attitudes",Jimmy Buffett,1,50.0,50,0.0,58.0,58,3.29,album,10,False,2024-09-03,2024-09-03
+Cheeseburger In Paradise,Jimmy Buffett,2,38.0,30,11.31,63.0,66,2.93,album,9,False,2024-09-03,2024-09-04
+Chemical,Post Malone,26,38.96,27,8.26,90.0,91,3.07,single,1,True,2024-05-18,2024-08-23
+Chicken Fried,Zac Brown Band,4,24.5,10,17.69,82.25,84,3.97,album,12,False,2024-07-05,2025-07-06
+Chill Bae,Lil Uzi Vert,1,40.0,40,0.0,65.0,65,2.31,album,16,True,2025-11-03,2025-11-03
+Chloe or Sam or Sophia or Marcus,Taylor Swift,8,34.62,27,7.23,83.38,86,3.55,album,31,False,2025-04-21,2025-04-28
+Christmas (Baby Please Come Home),Darlene Love,31,34.45,20,9.27,81.65,85,2.77,album,15,False,2024-11-25,2024-12-27
+Christmas Time Is Here,Vince Guaraldi Trio,12,39.75,27,9.25,82.92,83,2.72,album,14,False,2024-12-12,2024-12-27
+Christmas Tree Farm,Taylor Swift,2,41.5,40,2.12,87.0,87,3.8,single,1,False,2024-12-24,2024-12-25
+Cinderella,Future & Metro Boomin,27,20.67,7,8.65,84.48,90,2.83,album,17,True,2025-03-24,2025-04-20
+Clara Bow,Taylor Swift,13,29.46,19,10.41,78.62,79,3.61,album,16,False,2025-04-21,2025-05-03
+Claustrophobic,Future & Metro Boomin,4,30.5,14,11.56,59.0,80,3.7,album,17,True,2025-03-24,2025-03-28
+Clean (Taylor's Version),Taylor Swift,8,28.62,14,12.09,73.12,86,4.52,album,21,False,2024-10-29,2024-11-05
+Close To You,Gracie Abrams,21,35.76,26,7.73,70.95,80,3.77,single,1,False,2025-06-09,2025-06-29
+Clouded,Brent Faiyaz,18,43.39,34,4.73,85.56,87,1.84,album,10,True,2024-09-19,2024-10-20
+Cobra,Megan Thee Stallion,3,45.0,45,0.0,46.0,71,2.82,single,1,True,2024-11-04,2024-11-06
+Coincidence,Sabrina Carpenter,24,27.04,12,12.37,82.5,87,2.74,album,12,False,2025-08-24,2025-09-16
+Come Monday,Jimmy Buffett,1,44.0,44,0.0,59.0,59,3.2,album,11,False,2024-09-03,2024-09-03
+Cool With You,NewJeans,4,34.0,26,11.31,81.25,85,2.46,single,6,False,2024-07-23,2024-07-26
+Corazón de Piedra,Xavi,8,45.5,42,2.45,88.25,90,3.23,single,1,False,2025-04-05,2025-04-13
+"Courtesy Of The Red, White And Blue (The Angry American)",Toby Keith,7,19.86,10,8.8,74.43,75,3.26,album,13,False,2024-07-05,2025-07-08
+Cowgirls (feat. ERNEST),Morgan Wallen,184,31.4,17,8.75,84.81,87,3.03,album,36,False,2025-05-06,2025-11-22
+Creepin' (with The Weeknd & 21 Savage),Metro Boomin,55,36.71,24,6.47,95.93,96,3.69,album,15,True,2024-05-18,2024-07-22
+Crocodile Tearz,J. Cole,6,22.5,4,13.78,77.33,81,3.82,album,12,True,2025-04-07,2025-04-12
+Cruel Summer,Taylor Swift,388,16.92,1,13.63,97.01,100,2.97,album,18,False,2024-05-18,2025-08-03
+Cruel Summer - Live from TS | The Eras Tour,Taylor Swift,2,28.0,10,25.46,0.0,0,3.83,single,3,False,2024-10-20,2024-10-21
+Crush Em,Lil Uzi Vert,3,25.67,7,20.13,77.0,79,2.76,album,26,True,2024-07-02,2024-07-04
+Cry,Benson Boone,2,47.0,46,1.41,74.0,80,3.11,album,15,False,2025-04-07,2025-04-13
+Cupid - Twin Ver.,FIFTY FIFTY,71,25.75,7,11.82,98.2,99,2.9,single,3,False,2024-05-18,2024-07-28
+DAUGHTER,Beyoncé,6,28.0,13,12.51,53.5,56,3.4,album,27,False,2025-03-31,2025-04-05
+DELRESTO (ECHOES),Travis Scott,3,12.0,8,4.58,55.67,85,4.57,album,19,True,2024-07-29,2024-07-31
+DELRESTO (ECHOES) (feat. Beyoncé),Travis Scott,5,18.4,16,2.41,87.4,88,4.57,album,19,True,2024-08-01,2024-08-05
+DESERT EAGLE,Beyoncé,2,35.5,31,6.36,46.5,48,1.21,album,27,False,2025-03-31,2025-04-01
+DEVIL IS A LIE,Tommy Richman,46,27.0,13,10.13,83.96,89,2.18,single,1,True,2025-06-18,2025-08-03
+DJ Got Us Fallin' In Love (feat. Pitbull),USHER,2,38.0,37,1.41,85.0,85,3.68,album,22,False,2025-02-13,2025-02-14
+DO IT,Kanye West & Ty Dolla $ign,5,18.6,11,7.09,54.4,84,3.75,album,16,True,2025-02-13,2025-02-17
+DOS DÍAS,Tito Double P,9,48.0,45,1.73,88.0,88,2.57,album,21,True,2025-10-26,2025-11-14
+Dance The Night (From Barbie The Album),Dua Lipa,48,18.12,8,10.26,94.79,97,2.94,single,1,False,2024-05-28,2024-08-30
+Dance The Night - From Barbie The Album,Dua Lipa,43,28.37,14,8.78,95.53,97,2.94,single,1,False,2024-08-31,2025-01-03
+Dancing In The Flames,The Weeknd,7,23.86,10,8.17,82.0,85,3.67,single,1,False,2025-09-15,2025-09-21
+Danger (Spider) (Offset & JID),Metro Boomin,1,49.0,49,0.0,70.0,70,3.42,album,13,False,2024-06-04,2024-06-04
+Dark Red,Steve Lacy,27,45.85,40,3.48,89.63,90,2.89,single,1,False,2024-10-02,2025-01-11
+"Darling, I (feat. Teezo Touchdown)","Tyler, The Creator",26,14.92,2,11.1,85.88,87,4.23,album,14,True,2025-10-30,2025-11-24
+Dawns (feat. Maggie Rogers),Zach Bryan & Maggie Rogers,4,49.5,49,0.58,84.0,84,4.85,single,1,True,2024-09-01,2024-09-08
+Daylight,David Kushner,62,34.06,6,12.38,94.08,99,3.55,single,1,False,2024-05-18,2024-10-13
+Days Come and Go,Lil Uzi Vert,1,40.0,40,0.0,69.0,69,4.29,album,26,True,2024-07-02,2024-07-02
+Dead or Alive,Lil Tecca,1,47.0,47,0.0,30.0,30,2.04,album,16,True,2024-09-24,2024-09-24
+Dear John (Taylor's Version),Taylor Swift,7,19.86,6,13.99,74.57,88,6.77,album,22,False,2024-07-09,2024-07-15
+Deck The Hall,Nat King Cole,12,30.42,22,7.17,87.92,88,1.15,album,19,False,2024-12-16,2024-12-27
+Deck The Halls,Nat King Cole,15,41.2,30,6.21,83.93,87,1.15,album,19,False,2024-11-25,2024-12-15
+Deep Satin,Zach Bryan,4,32.75,22,9.43,54.0,75,3.52,single,5,False,2024-09-24,2024-09-27
+Deeper Well,Kacey Musgraves,2,38.0,28,14.14,65.0,70,3.87,single,1,False,2025-02-11,2025-03-17
+Defying Gravity,Wicked Movie Cast & Cynthia Erivo & Ariana Grande,3,34.67,22,12.06,74.0,76,7.66,album,12,False,2025-11-25,2025-11-27
+Deli,Ice Spice,33,40.82,19,7.74,82.42,86,2.11,single,11,True,2024-07-23,2024-08-25
+Demons,Doja Cat,8,37.38,26,8.21,68.62,80,3.26,single,1,True,2024-09-03,2024-09-24
+Devil I've Been (Feat. ERNEST),Post Malone,3,38.67,32,5.77,57.0,69,3.05,album,18,False,2025-08-17,2025-08-19
+Dial Drunk,Noah Kahan,24,24.12,3,13.88,82.71,87,3.56,album,21,True,2024-06-11,2025-02-11
+Dial Drunk (with Post Malone),Noah Kahan & Post Malone,35,32.8,4,13.56,84.66,87,3.56,single,1,True,2024-07-20,2024-08-25
+Did It First (with Central Cee),Ice Spice & Central Cee,17,38.65,28,6.38,83.88,87,1.97,single,1,True,2025-07-18,2025-08-03
+Die For You,The Weeknd,35,43.97,33,4.74,91.03,92,4.34,album,18,False,2024-05-18,2024-09-22
+Die With A Smile,Lady Gaga & Bruno Mars,103,3.47,1,3.63,96.81,100,4.19,single,1,False,2025-08-17,2025-11-27
+Died and Came Back,Lil Uzi Vert,1,14.0,14,0.0,73.0,73,3.01,album,26,True,2024-07-02,2024-07-02
+Diet Pepsi,Addison Rae,29,38.86,26,6.13,87.38,88,2.83,single,1,False,2025-10-03,2025-11-01
+Disco,Surf Curse,6,41.33,37,5.24,82.33,85,2.55,single,1,False,2025-09-08,2025-09-25
+Disease,Lady Gaga,3,28.67,16,13.58,75.0,77,3.83,single,1,False,2025-10-27,2025-10-29
+Disturbia,Rihanna,1,44.0,44,0.0,79.0,79,3.98,album,15,False,2025-11-02,2025-11-02
+Do They Know It's Christmas? - 1984 Version,Band Aid,4,41.5,39,3.79,89.0,89,3.71,single,2,False,2024-12-24,2024-12-27
+Do You Hear What I Hear? - Remastered 2006,Bing Crosby,2,48.0,48,0.0,83.0,83,2.76,compilation,16,False,2024-12-26,2024-12-27
+Doctor (Work It Out) [feat. Miley Cyrus],Pharrell Williams & Miley Cyrus,1,45.0,45,0.0,73.0,73,3.04,single,1,False,2025-03-03,2025-03-03
+Don't Understand,Post Malone,1,32.0,32,0.0,48.0,48,3.06,album,17,False,2024-07-29,2024-07-29
+Don’t Blame Me,Taylor Swift,6,46.83,45,2.48,91.33,92,3.94,album,15,False,2024-08-11,2024-10-28
+Don’t Smile,Sabrina Carpenter,15,30.8,19,11.63,78.33,84,3.44,album,12,False,2025-08-24,2025-09-07
+Doomsday (with Juice WRLD & Cordae),Lyrical Lemonade & Juice WRLD & Cordae,7,39.29,28,6.52,76.86,81,2.52,single,1,True,2024-06-25,2024-07-01
+Down Bad,Taylor Swift,49,19.8,2,14.21,87.0,88,4.35,album,16,True,2025-04-21,2025-06-08
+Dreams - 2004 Remaster,Fleetwood Mac,12,44.0,38,3.52,88.67,89,4.3,album,58,False,2024-10-02,2024-10-28
+Drew A Picasso,Drake,7,28.43,16,8.32,65.14,80,4.38,album,23,True,2024-10-07,2024-10-13
+Drugs You Should Try It,Travis Scott,1,30.0,30,0.0,0.0,0,3.47,album,12,True,2025-08-24,2025-08-24
+Dumb & Poetic,Sabrina Carpenter,14,30.29,16,12.08,78.14,84,2.22,album,12,True,2025-08-24,2025-09-06
+ETA,NewJeans,3,32.67,30,4.62,79.33,82,2.52,single,6,False,2024-07-23,2024-07-25
+East Side of Sorrow,Zach Bryan,22,23.64,3,13.9,80.68,85,3.49,album,16,True,2024-08-26,2024-09-16
+El Azul,Junior H & Peso Pluma,70,30.84,21,5.87,94.93,95,3.12,single,1,False,2024-05-18,2024-07-28
+El Dorado,Zach Bryan,8,27.62,15,9.62,72.12,80,3.05,album,16,False,2024-08-26,2024-09-02
+El Gordo Trae El Mando,Chino Pacas,32,43.06,31,6.41,91.69,92,1.87,single,1,True,2024-05-18,2024-06-29
+Electric Touch (feat. Fall Out Boy) (Taylor’s Version) (From The Vault),Taylor Swift,7,22.29,9,11.19,73.43,87,4.44,album,22,False,2024-07-09,2024-07-15
+Ella Baila Sola,Eslabon Armado,170,18.96,1,15.26,89.68,94,2.76,album,16,False,2024-05-18,2025-01-03
+Empire Now,Hozier,1,26.0,26,0.0,38.0,38,2.97,single,4,False,2025-03-24,2025-03-24
+Enchanted,Taylor Swift,1,35.0,35,0.0,83.0,83,5.87,album,14,False,2024-07-08,2024-07-08
+Enchanted (Taylor's Version),Taylor Swift,11,21.36,5,17.0,81.18,91,5.89,album,22,False,2024-07-09,2024-07-19
+End of Beginning,Djo,148,25.4,3,16.24,94.74,100,2.65,album,13,False,2025-02-18,2025-08-08
+Endless Fashion (feat. Nicki Minaj),Lil Uzi Vert,7,15.14,6,7.36,80.71,84,3.61,album,26,True,2024-07-02,2024-07-08
+Enough (Miami),Cardi B,5,33.0,28,4.9,69.0,73,2.65,single,1,True,2025-03-17,2025-03-23
+Enough Is Enough,Post Malone,8,34.75,28,3.81,75.5,83,2.75,album,17,True,2024-07-29,2024-08-05
+Espresso,Sabrina Carpenter,226,7.95,1,6.23,94.24,100,2.92,single,1,True,2025-04-14,2025-11-27
+Evergreen,Richy Mitch & The Coal Miners,55,43.07,32,5.58,88.95,90,1.45,album,14,False,2025-02-24,2025-09-18
+Everybody (feat. Lil Uzi Vert),Nicki Minaj,30,35.3,23,8.55,83.1,88,3.01,album,22,True,2024-12-10,2025-01-13
+Everyday Hustle,Future & Metro Boomin,3,38.33,24,12.42,50.33,77,3.78,album,17,True,2025-03-24,2025-03-27
+Evil,Eminem,4,29.0,15,9.63,77.0,80,3.84,album,19,True,2025-07-14,2025-07-17
+Evil Ways (feat. J. Cole),Drake,4,27.0,5,18.78,54.25,75,3.79,album,29,True,2024-11-18,2024-11-21
+FE!N,Travis Scott,3,2.33,2,0.58,57.0,87,3.2,album,19,True,2024-07-29,2024-07-31
+FE!N (feat. Playboi Carti),Travis Scott,232,31.58,2,13.34,91.86,94,3.2,album,19,True,2024-08-01,2025-11-12
+FIELD TRIP,¥$ & Kanye West & Ty Dolla $ign,8,23.5,15,9.67,58.0,81,2.79,album,16,True,2025-08-04,2025-08-11
+FINA,Bad Bunny,15,16.93,2,9.18,83.6,93,3.61,album,22,True,2024-10-14,2024-10-28
+FLAMENCO,Beyoncé,2,31.0,27,5.66,47.0,49,1.67,album,27,False,2025-03-31,2025-04-01
+FRIED,¥$ & Kanye West & Ty Dolla $ign,3,45.0,45,0.0,47.33,73,2.99,album,16,True,2025-08-04,2025-08-06
+FTCU,Nicki Minaj,54,18.8,6,10.43,87.22,91,2.87,album,22,True,2024-12-10,2025-02-06
+FUK SUMN,Kanye West & Ty Dolla $ign,17,28.65,2,16.58,74.24,88,3.49,album,16,True,2025-02-12,2025-03-02
+Fallin 4 U,Nicki Minaj,1,48.0,48,0.0,69.0,69,3.84,album,22,True,2024-12-10,2024-12-10
+Family Matters,Drake,15,18.07,5,13.02,85.47,89,7.62,single,1,True,2025-05-06,2025-05-20
+Fare Well,Hozier,1,35.0,35,0.0,37.0,37,3.14,single,4,False,2025-03-24,2025-03-24
+Fast Car,Luke Combs,184,20.82,3,13.05,90.24,92,4.42,album,18,False,2024-05-18,2025-07-06
+Father Stretch My Hands Pt. 1,Kanye West,39,38.15,24,9.26,90.28,91,2.27,album,20,True,2025-01-03,2025-03-08
+Favorite Song,Toosii,2,50.0,50,0.0,86.0,86,3.48,single,1,False,2024-05-19,2024-05-20
+Favorite Song (feat. Future) [Toxic Version],Toosii & Future,4,41.5,34,5.97,56.5,61,3.48,single,1,True,2024-05-21,2024-05-24
+Fear Of Heights,Drake,7,11.57,5,4.86,68.0,83,2.59,album,23,True,2024-10-07,2024-10-13
+Fear and Friday's,Zach Bryan,15,23.8,8,12.01,77.93,83,2.86,album,16,False,2024-08-26,2024-09-09
+Fear and Friday's (Poem),Zach Bryan,6,31.0,9,13.87,70.83,79,1.79,album,16,False,2024-08-26,2024-08-31
+Feather,Sabrina Carpenter,121,34.62,19,8.03,90.55,93,3.09,album,17,True,2024-12-29,2025-07-05
+Feel It - From The Original Series “Invincible”,d4vd,4,36.5,32,6.61,84.5,85,2.63,single,1,False,2025-04-17,2025-04-20
+Feliz Navidad,José Feliciano,34,20.38,8,9.09,84.82,88,3.03,album,15,False,2024-11-24,2024-12-27
+Femininomenon,Chappell Roan,12,43.17,41,2.52,84.42,85,3.66,album,14,True,2025-08-04,2025-08-16
+Fever,J. Cole,1,19.0,19,0.0,69.0,69,2.38,album,12,True,2025-04-07,2025-04-07
+Finer Things (Feat. Hank Williams Jr.),Post Malone,5,25.6,14,8.5,65.2,74,3.09,album,18,False,2025-08-17,2025-08-21
+Fire Alarm,Lil Uzi Vert,1,28.0,28,0.0,70.0,70,3.09,album,26,True,2024-07-02,2024-07-02
+Firework,Katy Perry,3,20.0,18,3.46,73.67,75,3.8,album,12,False,2024-07-05,2025-07-06
+First Person Shooter (feat. J. Cole),Drake,138,27.08,1,14.15,89.33,92,4.12,album,23,True,2024-10-07,2025-03-09
+Five Nights at Freddy's,The Living Tombstone,1,43.0,43,0.0,71.0,71,2.76,single,2,False,2024-11-01,2024-11-01
+Flooded The Face,Lil Uzi Vert,27,27.41,2,14.47,86.67,88,3.21,album,26,True,2024-07-02,2024-07-28
+Florida!!! (feat. Florence + The Machine),Taylor Swift,28,20.36,8,9.85,84.18,85,3.59,album,16,True,2025-04-21,2025-05-18
+Flowers,Miley Cyrus,76,29.16,14,9.76,91.13,95,3.34,album,13,False,2024-05-18,2025-02-12
+Foolish One (Taylor’s Version) (From The Vault),Taylor Swift,7,19.0,13,8.35,72.86,87,5.2,album,22,False,2024-07-09,2024-07-15
+Forever,Noah Kahan,7,19.86,3,10.4,79.43,83,4.47,album,30,False,2025-02-11,2025-02-17
+Fortnight (feat. Post Malone),Taylor Swift,103,18.95,1,13.1,92.3,96,3.82,album,16,False,2025-04-21,2025-08-23
+Fortunate Son,Creedence Clearwater Revival,4,37.25,30,8.85,86.5,88,2.35,album,13,False,2024-07-05,2025-07-08
+Fresh Out The Slammer,Taylor Swift,18,26.5,14,11.85,80.83,81,3.51,album,16,False,2025-04-21,2025-05-08
+Fried (She a Vibe),Future & Metro Boomin,4,36.5,21,11.0,58.0,79,3.5,album,17,True,2025-03-24,2025-03-28
+From The Start,Laufey,24,44.83,30,5.96,82.12,89,2.83,single,1,False,2024-07-20,2024-09-14
+Fuel,Eminem,8,24.12,16,11.1,79.12,83,3.56,album,19,True,2025-07-14,2025-07-21
+GIRLS,The Kid LAROI,2,38.5,36,3.54,78.0,79,2.55,single,2,True,2025-07-04,2025-07-05
+GOD'S COUNTRY,Travis Scott,8,20.88,11,5.51,75.38,88,2.13,album,19,True,2024-07-29,2024-08-05
+GOOD (DON'T DIE),Kanye West & Ty Dolla $ign,3,36.33,29,7.02,78.67,81,3.32,album,16,True,2025-02-13,2025-02-15
+GRACIAS POR NADA,Bad Bunny,3,24.0,12,20.78,53.33,80,2.96,album,22,True,2024-10-14,2024-10-16
+GTA,Future & Metro Boomin,1,28.0,28,0.0,0.0,0,3.88,album,17,True,2025-03-24,2025-03-24
+Gata Only,FloyyMenor & Cris Mj,113,31.03,13,8.94,96.22,98,3.7,single,1,True,2025-04-04,2025-07-30
+Gata Only (Mashup),Dj Agus Lima,2,26.0,26,0.0,24.0,48,3.59,album,9,False,2025-05-09,2025-05-10
+Gently (feat. Bad Bunny),Drake,15,23.13,8,13.88,77.33,87,2.23,album,23,True,2024-10-07,2024-10-21
+Get It Sexyy,Sexyy Red,56,36.43,26,7.12,79.41,85,2.48,single,1,True,2025-03-29,2025-06-03
+Ghostbusters,Various Artists,5,24.0,1,19.97,73.2,78,4.09,compilation,14,False,2024-11-01,2025-11-03
+Goes Without Saying (Feat. Brad Paisley),Post Malone,5,39.2,24,11.01,63.8,72,3.54,album,18,False,2025-08-17,2025-08-21
+Good Graces,Sabrina Carpenter,67,24.19,6,12.31,87.3,90,3.09,album,12,True,2025-08-24,2025-10-29
+"Good Luck, Babe!",Chappell Roan,232,9.97,1,8.57,92.62,97,3.64,single,1,False,2025-04-07,2025-11-27
+Gucci Grocery Bag,Young Thug,1,36.0,36,0.0,69.0,69,2.92,album,15,True,2024-06-25,2024-06-25
+Guess featuring Billie Eilish,Charli xcx & Billie Eilish,66,25.45,4,9.92,90.82,92,2.39,single,1,False,2025-08-04,2025-10-09
+Guess featuring billie eilish,Charli xcx & Billie Eilish,14,39.5,21,8.12,75.21,90,2.39,single,1,False,2025-10-10,2025-10-28
+Guilty Conscience 2,Eminem,1,21.0,21,0.0,71.0,71,5.43,album,19,True,2025-07-14,2025-07-14
+Guilty as Sin?,Taylor Swift,39,24.56,10,12.52,82.87,84,4.24,album,16,False,2025-04-21,2025-06-02
+Guy For That (Feat. Luke Combs),Post Malone & Luke Combs,31,23.0,7,11.2,76.84,86,2.73,single,1,False,2025-07-27,2025-08-27
+H.Y.B. (feat. Bas & Central Cee),J. Cole,4,32.0,13,15.77,74.5,78,3.91,album,12,True,2025-04-07,2025-04-10
+HARLEY QUINN,Fuerza Regida,58,33.05,18,9.74,93.14,95,2.39,album,30,True,2024-11-04,2025-01-30
+HIBIKI,Bad Bunny,7,20.86,5,13.46,73.71,90,3.47,album,22,True,2024-10-14,2024-10-20
+HISS,Megan Thee Stallion,17,11.35,1,13.29,84.41,89,3.21,single,1,True,2025-01-28,2025-02-13
+HOODRAT,Kanye West & Ty Dolla $ign,3,27.0,18,8.54,80.0,82,3.72,album,16,True,2025-02-13,2025-02-15
+HOT TO GO!,Chappell Roan,172,16.69,7,9.96,88.81,92,3.08,album,14,False,2025-06-05,2025-11-27
+HUMBLE.,Kendrick Lamar,2,36.5,31,7.78,86.0,86,2.95,album,14,True,2025-05-09,2025-05-10
+HVN ON EARTH (with Kodak Black),Lil Tecca,1,41.0,41,0.0,31.0,31,3.15,album,16,True,2024-09-24,2024-09-24
+HYAENA,Travis Scott,9,12.44,2,7.32,78.78,90,3.7,album,19,True,2024-07-29,2024-08-06
+Habits,Eminem,6,20.0,5,11.64,79.67,82,4.97,album,19,True,2025-07-14,2025-07-19
+Happy Holiday / The Holiday Season,Andy Williams,4,42.25,38,5.68,72.0,72,2.62,album,12,False,2024-12-24,2024-12-27
+Happy Xmas (War Is Over) - Remastered 2010,John Lennon,6,38.33,32,7.34,92.0,92,3.57,compilation,119,False,2024-12-22,2024-12-27
+Haunted (Taylor's Version),Taylor Swift,5,23.8,14,10.28,67.6,86,4.09,album,22,False,2024-07-09,2024-07-13
+Have The Heart (Feat. Dolly Parton),Post Malone,3,29.0,21,6.93,59.0,70,3.06,album,18,False,2025-08-17,2025-08-19
+Have Yourself A Merry Little Christmas - Remastered 1999,Frank Sinatra,3,43.33,42,2.31,84.0,84,3.44,album,15,False,2024-12-25,2024-12-27
+Head Honcho,Eminem,1,29.0,29,0.0,69.0,69,3.91,album,19,True,2025-07-14,2025-07-14
+Heading South,Zach Bryan,213,40.62,27,6.03,84.82,88,2.86,single,1,True,2024-08-26,2025-11-14
+Heartless,Kanye West,56,43.32,34,3.85,90.25,91,3.52,album,12,False,2024-12-28,2025-03-09
+Heather,Conan Gray,2,45.0,42,4.24,88.5,89,3.3,album,12,False,2024-12-04,2024-12-05
+Heavy Is the Crown,Linkin Park,2,44.5,44,0.71,80.5,83,2.78,single,2,False,2025-09-27,2025-09-29
+Hellcat Kenny (feat. Lil Uzi Vert),Young Thug,1,31.0,31,0.0,69.0,69,2.57,album,15,True,2024-06-25,2024-06-25
+Here Comes Santa Claus (Right Down Santa Claus Lane),Elvis Presley,3,49.33,49,0.58,85.0,85,1.93,album,12,False,2024-12-25,2024-12-27
+Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version,Gene Autry,4,36.25,35,2.5,86.0,86,2.5,album,18,False,2024-12-24,2024-12-27
+Hey Daddy (Daddy's Home),USHER,1,40.0,40,0.0,85.0,85,3.73,album,22,False,2025-02-14,2025-02-14
+Hey Driver (feat. The War and Treaty),Zach Bryan,55,22.47,3,14.59,84.56,87,3.79,album,16,False,2024-08-26,2024-12-29
+Hey Jane,"Tyler, The Creator",10,24.1,6,12.6,81.4,83,4.01,album,14,True,2025-10-30,2025-11-08
+Hide My Gun (Feat. HARDY),Post Malone,3,38.33,35,2.89,55.67,68,3.67,album,18,True,2025-08-17,2025-08-19
+High Road,Zach Bryan,7,34.86,10,12.27,69.86,75,3.33,single,2,True,2025-11-10,2025-11-16
+High Road (feat. Jessie Murph),Koe Wetzel & Jessie Murph,29,33.45,17,9.46,73.86,82,2.99,single,1,True,2025-06-10,2025-07-26
+Hits Different,Taylor Swift,12,21.25,2,13.61,83.75,87,3.91,album,23,True,2024-05-28,2024-06-09
+Holly Jolly Christmas,Michael Bublé,34,23.91,15,7.96,80.12,83,2.0,album,16,False,2024-11-24,2024-12-27
+Holy Roller (feat. Sierra Ferrell),Zach Bryan,8,23.25,13,8.8,72.62,80,3.6,album,16,True,2024-08-26,2024-09-02
+Home,Good Neighbours,53,40.08,27,5.84,84.57,90,2.62,single,1,False,2025-02-02,2025-04-13
+Houdini,Dua Lipa,75,20.27,4,12.47,85.91,94,3.1,single,1,False,2024-11-11,2025-08-03
+How Did It End?,Taylor Swift,10,35.3,28,7.97,84.1,87,3.98,album,31,False,2025-04-21,2025-05-01
+How Do You Like Me Now?!,Toby Keith,1,19.0,19,0.0,72.0,72,3.48,album,12,False,2025-02-08,2025-02-08
+How You Get The Girl (Taylor's Version),Taylor Swift,6,33.33,16,13.78,68.83,84,4.13,album,21,False,2024-10-29,2024-11-03
+Huntin’ Wabbitz,J. Cole,4,27.0,9,14.31,73.75,77,2.7,album,12,True,2025-04-07,2025-04-10
+I Ain't Worried,OneRepublic,3,45.67,43,2.31,95.0,95,2.47,single,1,False,2024-07-05,2024-07-07
+I Can Do It With a Broken Heart,Taylor Swift,96,22.28,3,13.13,87.51,91,3.63,album,16,True,2025-04-21,2025-08-23
+I Can Fix Him (No Really I Can),Taylor Swift,15,28.47,16,12.07,79.8,80,2.6,album,16,False,2025-04-21,2025-05-05
+I Can See You (Taylor’s Version) (From The Vault),Taylor Swift,36,25.92,1,17.97,89.31,93,4.55,album,22,False,2024-07-09,2024-08-22
+I Gotta,Lil Uzi Vert,3,16.33,9,8.08,76.33,78,2.88,album,26,True,2024-07-02,2024-07-04
+I Had Some Help (Feat. Morgan Wallen),Post Malone & Morgan Wallen,198,8.72,1,7.24,88.46,96,2.97,single,1,True,2025-05-12,2025-11-27
+I Hate It Here,Taylor Swift,9,35.33,29,7.73,83.44,86,4.06,album,31,False,2025-04-21,2025-05-01
+I Hope You Find Your Way Home,"Tyler, The Creator",4,24.25,14,12.55,76.0,78,4.5,album,14,True,2025-10-30,2025-11-02
+I KNOW ?,Travis Scott,221,22.98,3,11.11,91.36,93,3.53,album,19,True,2024-07-29,2025-03-20
+I Killed You,"Tyler, The Creator",10,27.9,7,13.45,80.7,83,2.81,album,14,True,2025-10-30,2025-11-08
+I Know Places (Taylor's Version),Taylor Swift,6,30.83,18,11.39,68.33,84,3.26,album,21,False,2024-10-29,2024-11-03
+I LUV IT (feat. Playboi Carti),Camila Cabello & Playboi Carti,5,41.2,31,6.94,80.8,84,2.91,single,1,True,2025-03-30,2025-04-06
+I Look in People's Windows,Taylor Swift,8,37.25,31,6.43,82.5,85,2.2,album,31,False,2025-04-21,2025-04-28
+I Love This Bar,Toby Keith,1,44.0,44,0.0,70.0,70,5.59,album,12,False,2025-02-08,2025-02-08
+"I Love You, I'm Sorry",Gracie Abrams,104,25.42,9,11.04,88.82,90,2.62,album,13,True,2025-08-08,2025-11-27
+I Remember Everything (feat. Kacey Musgraves),Zach Bryan,446,13.9,1,9.89,90.09,94,3.79,album,16,False,2024-08-26,2025-11-23
+I Saw Mommy Kissing Santa Claus,The Jackson 5,3,43.67,41,4.62,83.0,83,3.02,album,11,False,2024-12-25,2024-12-27
+I Want a Hippopotamus for Christmas (Hippo the Hero),Gayla Peevey,3,44.33,44,0.58,83.0,83,2.59,single,1,False,2024-12-25,2024-12-27
+I Wish You Would (Taylor's Version),Taylor Swift,8,31.62,13,13.81,73.0,85,3.46,album,21,False,2024-10-29,2024-11-05
+I might say something stupid featuring the 1975 & jon hopkins,Charli xcx,1,47.0,47,0.0,65.0,65,4.18,album,34,False,2025-10-13,2025-10-13
+"I swear, I Really Wanted To Make A ""Rap"" Album But This Is Literally The Way The Wind Blew Me This Time",André 3000,1,31.0,31,0.0,37.0,37,12.33,album,8,False,2024-11-18,2024-11-18
+I'm Shipping Up To Boston,Dropkick Murphys,1,48.0,48,0.0,74.0,74,2.56,album,14,False,2025-03-19,2025-03-19
+IDGAF (feat. Yeat),Drake,150,20.13,1,13.47,91.21,94,4.34,album,23,True,2024-10-07,2025-03-09
+II HANDS II HEAVEN,Beyoncé,2,39.0,36,4.24,45.5,47,5.69,album,27,False,2025-03-31,2025-04-01
+II MOST WANTED,Beyoncé,14,20.64,4,13.95,67.29,75,3.48,album,27,False,2025-03-31,2025-04-13
+Ice Attack,Future & Metro Boomin,6,21.83,8,9.17,67.33,82,3.32,album,17,True,2025-03-24,2025-03-30
+Igual Que Un Ángel (with Peso Pluma),Kali Uchis,35,18.03,6,12.99,91.77,96,4.34,album,14,False,2025-01-14,2025-02-18
+In Your Love,Tyler Childers,7,43.14,37,4.02,72.43,78,3.76,single,1,False,2024-07-29,2024-08-06
+Innocent (Taylor's Version),Taylor Swift,4,32.0,21,10.98,62.0,84,5.02,album,22,False,2024-07-09,2024-07-12
+Is It Over Now? (Taylor's Version) (From The Vault),Taylor Swift,89,24.39,1,17.87,91.75,95,3.82,album,21,False,2024-10-29,2025-02-07
+It's Beginning to Look a Lot Like Christmas (with Mitchell Ayres & His Orchestra),Perry Como,34,26.88,15,9.1,86.97,90,2.6,album,21,False,2024-11-24,2024-12-27
+It's Beginning to Look a Lot like Christmas,Michael Bublé,37,15.38,9,8.38,83.24,87,3.45,album,21,False,2024-11-20,2024-12-27
+It's Five O'Clock Somewhere,Alan Jackson,2,24.0,12,16.97,66.0,69,3.84,compilation,14,False,2024-09-03,2024-09-04
+It's Getting Hot,NLE Choppa,2,48.0,48,0.0,79.5,80,2.24,single,1,True,2024-08-14,2024-08-15
+It's Up (feat. Young Thug & 21 Savage),Drake,5,34.0,20,13.27,59.8,78,4.63,single,3,True,2025-08-11,2025-08-16
+It's ok I'm ok,Tate McRae,26,33.12,9,12.28,84.12,87,2.61,single,1,True,2025-09-15,2025-11-17
+It's the Most Wonderful Time of the Year,Andy Williams,42,12.48,4,12.86,76.64,82,2.52,album,12,False,2024-11-19,2025-11-26
+I’m Just Ken (From Barbie The Album),Ryan Gosling,8,43.12,29,9.2,74.5,79,3.71,single,1,False,2024-07-26,2024-08-08
+JOLENE,Beyoncé,9,21.44,3,16.24,62.22,68,3.16,album,27,False,2025-03-31,2025-04-08
+JUST FOR FUN,Beyoncé,3,32.67,24,10.26,48.67,51,3.41,album,27,False,2025-03-31,2025-04-02
+Jake's Piano - Long Island,Zach Bryan,8,30.5,17,9.23,71.88,80,5.32,album,16,False,2024-08-26,2024-09-02
+Jennifer’s Body,Ken Carson,2,47.0,47,0.0,0.0,0,2.64,album,18,True,2024-10-14,2024-10-15
+Jimmy Cooks (feat. 21 Savage),Drake,86,44.24,34,3.93,89.4,91,3.64,album,14,True,2024-05-18,2024-11-17
+Jingle Bell Rock,Bobby Helms,54,13.74,2,14.76,87.19,94,2.18,single,2,False,2024-11-12,2025-11-27
+Jingle Bells - Remastered 1999,Frank Sinatra,34,29.76,17,9.4,84.79,88,2.01,album,15,False,2024-11-24,2024-12-27
+Joy To The World,Nat King Cole,4,39.25,36,4.72,86.0,86,1.42,album,19,False,2024-12-24,2024-12-27
+Judge Judy,"Tyler, The Creator",12,25.17,8,12.71,81.25,83,4.49,album,14,True,2025-10-30,2025-11-10
+Juno,Sabrina Carpenter,87,32.11,11,10.62,86.43,88,3.72,album,12,True,2025-08-24,2025-11-24
+Just Wanna Rock,Lil Uzi Vert,32,40.06,16,8.42,86.34,90,2.06,single,1,True,2024-05-18,2024-07-08
+K-POP,Travis Scott & Bad Bunny & The Weeknd,33,18.91,2,13.17,87.18,93,3.09,single,1,True,2024-07-23,2024-08-24
+KEHLANI,Jordan Adetunji,7,44.86,43,1.86,87.71,88,2.04,single,3,False,2025-08-09,2025-08-16
+KEYS TO MY LIFE,Kanye West & Ty Dolla $ign,5,27.8,10,13.7,63.2,84,2.9,album,16,True,2025-02-12,2025-02-16
+KING,Kanye West & Ty Dolla $ign,2,41.5,36,7.78,76.5,78,2.61,album,16,True,2025-02-13,2025-02-14
+Karma,Taylor Swift,95,37.14,24,5.76,89.86,92,3.41,album,13,True,2024-05-18,2024-11-16
+Karma (feat. Ice Spice),Taylor Swift,6,22.83,1,15.56,80.83,84,3.36,album,23,True,2024-05-28,2024-06-03
+Kill Bill,SZA,247,22.91,4,12.16,92.26,95,2.57,album,23,False,2024-05-18,2025-11-04
+Knee Deep (feat. Jimmy Buffett),Zac Brown Band,2,46.0,45,1.41,77.5,78,3.39,album,14,False,2024-09-03,2024-09-04
+LA DURANGO,Peso Pluma & Junior H & Eslabon Armado,1,42.0,42,0.0,70.0,70,4.38,single,1,True,2025-05-12,2025-05-12
+LA PATRULLA,Peso Pluma,44,41.14,33,3.71,86.8,87,2.18,album,24,True,2025-09-16,2025-10-29
+LA PEOPLE II,Peso Pluma & Tito Double P & Joel De La P,4,45.25,42,3.3,60.5,82,2.35,single,1,True,2025-03-24,2025-03-30
+LADY GAGA,Peso Pluma,150,29.07,7,10.96,92.17,95,3.55,album,14,True,2024-06-25,2024-11-24
+LALA,Myke Towers,49,38.02,29,5.55,98.69,99,3.3,album,23,True,2024-07-16,2024-09-11
+LEVII'S JEANS,Beyoncé,9,24.22,10,11.77,80.0,83,4.29,album,27,True,2025-03-31,2025-04-08
+LIL DEMON,Future,3,34.0,13,19.0,73.0,76,2.32,album,17,True,2025-09-22,2025-09-26
+LOOOVE,Travis Scott,3,23.67,19,4.51,53.67,82,3.78,album,19,True,2024-07-29,2024-07-31
+LOOOVE (feat. Kid Cudi),Travis Scott,5,35.8,28,7.92,84.6,86,3.78,album,19,True,2024-08-01,2024-08-05
+LOS PITS,Bad Bunny,2,19.0,19,0.0,39.5,79,4.18,album,22,True,2024-10-14,2024-10-15
+LOST FOREVER,Travis Scott,3,22.0,16,5.57,53.67,82,2.72,album,19,True,2024-07-29,2024-07-31
+LOST FOREVER (feat. Westside Gunn),Travis Scott,4,34.25,27,7.18,84.25,85,2.72,album,19,True,2024-08-01,2024-08-04
+LUNA,Peso Pluma,14,25.29,8,15.62,73.57,87,2.73,album,14,True,2024-06-25,2024-07-08
+LUNCH,Billie Eilish,89,19.04,4,11.16,93.24,96,2.99,album,10,False,2025-05-19,2025-08-23
+La Bebe - Remix,Yng Lvcas & Peso Pluma,113,23.83,6,13.64,98.01,100,3.91,single,2,True,2024-05-18,2024-09-18
+La Diabla,Xavi,104,18.32,5,13.09,96.67,99,2.87,single,1,False,2024-12-28,2025-04-18
+La Víctima,Xavi,74,24.86,14,7.38,94.93,96,2.61,single,1,True,2024-12-28,2025-03-23
+Lace It (with Eminem & benny blanco),Juice WRLD & Eminem & benny blanco,5,38.4,32,4.67,78.8,82,3.63,single,1,True,2024-12-20,2024-12-31
+Last Christmas - Single Version,Wham!,63,19.67,4,16.65,79.76,89,4.43,album,16,False,2024-11-12,2025-11-27
+Last Kiss (Taylor's Version),Taylor Swift,5,28.4,18,11.99,67.2,85,6.15,album,22,False,2024-07-09,2024-07-13
+Last Night,Morgan Wallen,492,22.61,1,14.55,85.68,90,2.73,album,36,True,2024-05-18,2025-10-22
+Last Time I Saw You,Nicki Minaj,3,42.67,34,7.77,76.0,79,3.61,single,1,False,2024-09-03,2024-09-06
+Lavender Haze,Taylor Swift,6,41.0,23,10.12,88.17,89,3.37,album,13,True,2024-05-18,2024-06-01
+Let It Snow! Let It Snow! Let It Snow!,Dean Martin,42,15.52,6,13.27,90.4,95,1.95,album,12,False,2024-11-20,2025-11-26
+Let It Snow! Let It Snow! Let It Snow! (with The B. Swanson Quartet),Frank Sinatra,23,35.39,23,7.84,88.35,91,2.59,album,14,False,2024-11-25,2024-12-27
+Let Me Calm Down (feat. J. Cole),Nicki Minaj,1,42.0,42,0.0,70.0,70,4.07,album,22,True,2024-12-10,2024-12-10
+Lie To Girls,Sabrina Carpenter,9,27.78,19,6.44,74.67,82,3.37,album,12,True,2025-08-24,2025-09-01
+Lies Lies Lies,Morgan Wallen,106,27.89,8,12.87,85.26,88,3.3,single,1,False,2025-07-07,2025-10-23
+Light Year (Practice),Lil Uzi Vert,2,29.0,8,29.7,69.0,70,2.74,album,16,True,2025-11-03,2025-11-04
+Like Crazy,Jimin,2,48.0,48,0.0,84.0,84,3.54,single,6,False,2025-06-10,2025-06-11
+Like Him (feat. Lola Young),"Tyler, The Creator",29,13.76,5,5.2,84.17,87,4.63,album,14,True,2025-10-30,2025-11-27
+Like That,Future & Metro Boomin,169,19.38,1,14.7,90.96,96,4.46,album,17,True,2025-03-24,2025-09-20
+Lil Boo Thang,Paul Russell,1,36.0,36,0.0,87.0,87,1.9,single,1,False,2025-01-03,2025-01-03
+Lithonia,Childish Gambino,7,42.0,28,7.3,69.29,75,2.99,single,1,True,2025-07-04,2025-07-28
+Little Saint Nick - 1991 Remix,The Beach Boys,22,31.5,18,10.68,82.59,85,1.98,album,12,False,2024-11-25,2024-12-27
+Lonely Road (with Jelly Roll),mgk & Jelly Roll,2,49.0,49,0.0,52.5,66,3.16,single,1,False,2025-07-27,2025-07-28
+Long Live (Taylor's Version),Taylor Swift,5,25.0,20,6.82,67.2,85,5.3,album,22,False,2024-07-09,2024-07-13
+Lose Control,Teddy Swims,329,23.5,5,8.65,90.92,94,3.51,album,10,False,2024-12-28,2025-11-27
+Losers (Feat. Jelly Roll),Post Malone,6,32.0,20,10.04,65.83,74,3.48,album,18,False,2025-08-17,2025-08-22
+Love Somebody,Morgan Wallen,39,21.05,1,12.57,83.54,86,3.41,single,1,False,2025-10-20,2025-11-27
+Love in This Club (feat. Young Jeezy),USHER,1,42.0,42,0.0,78.0,78,4.33,album,18,False,2025-02-14,2025-02-14
+Lover,Taylor Swift,2,40.0,30,14.14,92.5,93,3.69,album,18,False,2024-10-22,2025-02-16
+Lovers Rock,TV Girl,67,43.09,35,4.44,90.01,91,3.57,album,12,False,2024-10-04,2025-09-25
+Lovin On Me,Jack Harlow,157,10.75,1,12.48,94.97,99,2.31,single,1,True,2024-11-11,2025-04-20
+Lucifer,Eminem,4,34.5,17,11.68,76.5,79,4.36,album,19,True,2025-07-14,2025-07-17
+Lucky Enough (Poem),Zach Bryan,1,31.0,31,0.0,64.0,64,2.7,album,19,True,2025-07-06,2025-07-06
+Lyft Em Up,Lil Uzi Vert,1,49.0,49,0.0,63.0,63,2.74,album,16,True,2025-11-03,2025-11-03
+L’AMOUR DE MA VIE,Billie Eilish,26,30.27,12,12.27,86.31,90,5.57,album,10,False,2025-05-19,2025-06-13
+M-E-X-I-C-O (Feat. Billy Strings),Post Malone,1,49.0,49,0.0,34.0,34,2.6,album,18,False,2025-08-17,2025-08-17
+MATHEMATICAL DISRESPECT,Lil Mabu,14,27.93,10,15.11,86.5,88,1.47,single,1,True,2024-05-18,2024-06-03
+MELTDOWN,Travis Scott,3,1.0,1,0.0,57.0,87,4.1,album,19,True,2024-07-29,2024-07-31
+MELTDOWN (feat. Drake),Travis Scott,86,22.0,1,14.11,92.58,95,4.1,album,19,True,2024-08-01,2024-10-28
+MERCEDES CAROTA,Bad Bunny,2,17.0,17,0.0,39.5,79,3.38,album,22,True,2024-10-14,2024-10-15
+MI EX TENÍA RAZÓN,KAROL G,15,33.13,13,10.07,76.47,84,2.57,album,9,False,2024-08-13,2024-08-27
+MILLION DOLLAR BABY,Tommy Richman,206,14.95,1,12.32,90.09,99,2.59,single,2,False,2025-04-28,2025-11-23
+MILLION DOLLAR BABY (VHS),Tommy Richman,14,39.86,30,5.63,78.43,83,2.59,single,2,False,2025-04-29,2025-05-12
+MODERN JAM,Travis Scott,3,9.67,5,5.03,56.0,85,4.26,album,19,True,2024-07-29,2024-07-31
+MODERN JAM (feat. Teezo Touchdown),Travis Scott,6,20.67,15,7.63,88.17,89,4.26,album,19,True,2024-08-01,2024-08-06
+MOJABI GHOST,Tainy,8,29.75,23,8.92,85.75,92,3.87,album,19,True,2024-07-02,2024-07-15
+MONACO,Bad Bunny,66,22.33,1,15.97,94.14,98,4.45,album,22,True,2024-10-14,2025-01-07
+MR. OCTOBER,Bad Bunny,7,25.43,6,16.1,72.43,88,3.15,album,22,True,2024-10-14,2024-10-20
+MY EYES,Travis Scott,27,26.15,6,12.58,86.52,91,4.19,album,19,True,2024-07-29,2025-03-09
+MY HOUSE,Beyoncé,2,43.5,40,4.95,41.0,82,4.38,single,1,True,2024-12-02,2024-12-09
+MY ROSE,Beyoncé,3,30.0,20,11.14,50.67,54,0.89,album,27,False,2025-03-31,2025-04-02
+Ma Meilleure Ennemie (from the series Arcane League of Legends),Stromae & Pomme & Arcane,1,36.0,36,0.0,77.0,77,2.47,single,1,False,2025-11-27,2025-11-27
+Magic Don Juan (Princess Diana),Future & Metro Boomin,4,30.25,15,11.21,58.25,79,3.68,album,17,True,2025-03-24,2025-03-28
+Magnetic,ILLIT,12,43.67,35,4.72,90.33,93,2.68,single,4,False,2025-04-04,2025-04-20
+"Mama, I’m Sorry",Lil Uzi Vert,2,29.5,18,16.26,73.5,75,3.52,album,26,True,2024-07-02,2024-07-03
+Mamaw's House,Thomas Rhett,2,13.0,13,0.0,12.5,25,3.12,album,22,False,2024-09-30,2024-10-01
+Mamushi (feat. Yuki Chiba),Megan Thee Stallion,36,38.72,25,7.6,84.47,88,2.62,album,18,True,2025-07-05,2025-08-12
+Margaritaville,Jimmy Buffett,3,13.67,6,12.42,72.67,75,4.18,album,10,False,2024-09-03,2024-09-05
+Mean (Taylor's Version),Taylor Swift,6,23.67,10,13.25,71.5,87,3.98,album,22,False,2024-07-09,2024-07-14
+Mechanical Bull,Zach Bryan,2,29.0,15,19.8,67.5,69,3.48,album,19,False,2025-07-06,2025-07-07
+Mele Kalikimaka (Merry Christmas),Bing Crosby,18,37.56,23,8.6,83.67,86,2.92,compilation,12,False,2024-11-25,2024-12-27
+Members Only (feat. PARTYNEXTDOOR),Drake,7,27.71,18,8.42,65.57,80,4.63,album,23,True,2024-10-07,2024-10-13
+Memphis; The Blues (feat. John Moreland),Zach Bryan,1,46.0,46,0.0,63.0,63,3.16,album,19,True,2025-07-06,2025-07-06
+Meteor Man,Lil Uzi Vert,1,20.0,20,0.0,66.0,66,3.79,album,16,True,2025-11-03,2025-11-03
+Mine (Taylor's Version),Taylor Swift,8,14.12,1,14.83,77.75,90,3.86,album,22,False,2024-07-09,2024-07-16
+Missin’ You Like This (Feat. Luke Combs),Post Malone,3,40.33,33,6.35,57.67,69,3.71,album,18,False,2025-08-17,2025-08-19
+Mistletoe,Justin Bieber,29,40.0,29,7.11,89.86,92,3.05,album,15,False,2024-11-25,2024-12-27
+Mistletoe And Holly - Remastered 1999,Frank Sinatra,2,50.0,50,0.0,81.0,81,2.27,album,15,False,2024-12-26,2024-12-27
+Mmhmm,BigXthaPlug,58,42.21,31,5.34,80.33,82,1.98,album,7,True,2025-03-18,2025-11-08
+Money On The Dresser,Young Thug,1,23.0,23,0.0,70.0,70,2.22,album,15,True,2024-06-25,2024-06-25
+Money Trees,Kendrick Lamar,41,45.07,35,4.48,84.71,86,6.45,album,13,True,2024-05-18,2024-12-01
+Monster Mash,"Bobby ""Boris"" Pickett & The Crypt-Kickers",8,26.25,2,18.51,77.75,81,3.2,album,16,False,2024-10-29,2025-11-03
+Moonlight,Kali Uchis,105,42.27,30,5.32,86.78,88,3.13,album,15,False,2024-05-18,2024-10-06
+Mourning,Post Malone,11,29.18,9,11.35,73.91,83,2.46,single,1,True,2024-05-21,2024-08-01
+Mr Chow,Lil Uzi Vert,1,39.0,39,0.0,64.0,64,2.95,album,16,True,2025-11-03,2025-11-03
+Mr. Brightside,The Killers,3,33.0,21,10.39,86.67,87,3.72,album,12,False,2025-01-01,2025-01-03
+Murder On The Dancefloor,Sophie Ellis-Bextor,31,35.19,20,6.79,87.61,94,3.83,album,15,False,2025-01-07,2025-02-06
+My Boo,USHER,3,33.0,20,11.53,84.33,85,3.72,album,21,False,2025-02-14,2025-02-16
+My Boy Only Breaks His Favorite Toys,Taylor Swift,29,18.93,7,10.05,84.52,85,3.4,album,16,False,2025-04-21,2025-05-19
+My Love Mine All Mine,Mitski,224,16.57,2,14.09,95.04,99,2.3,album,11,False,2024-09-20,2025-11-20
+NADIE SABE,Bad Bunny,5,21.6,3,17.37,66.4,83,6.32,album,22,True,2024-10-14,2024-10-18
+NEL,Fuerza Regida,10,42.3,31,5.95,87.2,88,2.48,album,15,True,2025-10-02,2025-10-26
+NEW DROP,Don Toliver,4,48.0,46,1.41,84.5,85,3.62,album,16,True,2025-10-25,2025-11-09
+NIGHTS LIKE THIS,The Kid LAROI,147,31.59,20,6.09,87.61,89,1.45,album,20,False,2025-06-28,2025-11-27
+NO ME QUIERO CASAR,Bad Bunny,2,25.0,25,0.0,39.0,78,3.76,album,22,True,2024-10-14,2024-10-15
+Nakamura,Lil Uzi Vert,2,25.5,16,13.44,73.5,75,3.3,album,26,True,2024-07-02,2024-07-03
+Needle (feat. Drake),Nicki Minaj,7,29.71,10,9.91,79.86,84,3.93,album,22,True,2024-12-10,2024-12-16
+Neva Play (feat. RM of BTS),Megan Thee Stallion & RM,6,44.17,38,3.49,80.0,84,2.62,single,1,True,2025-09-08,2025-09-14
+Never Grow Up (Taylor's Version),Taylor Swift,4,26.75,17,8.42,62.25,84,4.88,album,22,False,2024-07-09,2024-07-12
+Never Lose Me,Flo Milli,76,17.84,5,13.07,87.28,93,2.1,single,1,True,2025-01-08,2025-04-06
+Never Love You Again (Feat. Sierra Ferrell),Post Malone,3,46.33,39,6.35,56.33,68,3.11,album,18,False,2025-08-17,2025-08-19
+New Jeans,NewJeans,3,34.67,31,6.35,88.33,89,1.82,single,2,False,2024-07-23,2024-07-25
+New Romantics,Taylor Swift,1,31.0,31,0.0,76.0,76,3.84,album,19,False,2024-08-12,2024-08-12
+New Romantics (Taylor's Version),Taylor Swift,9,27.44,12,11.64,75.11,86,3.84,album,21,False,2024-10-29,2024-11-06
+New Year’s Day,Taylor Swift,1,39.0,39,0.0,77.0,77,3.92,album,15,False,2025-01-03,2025-01-03
+Night Changes,One Direction,10,31.1,16,9.72,88.0,89,3.78,album,16,False,2025-10-19,2025-10-28
+Nine Ball,Zach Bryan,3,43.33,36,6.35,46.33,71,2.83,single,5,False,2024-09-24,2024-09-26
+No Complaints,Noah Kahan,1,24.0,24,0.0,65.0,65,3.42,album,21,False,2024-06-11,2024-06-11
+No Face,Drake,3,40.0,37,5.2,65.67,72,2.29,single,1,True,2025-09-02,2025-09-04
+No One Noticed,The Marías,52,36.75,17,9.62,80.9,84,3.95,album,14,False,2025-10-02,2025-11-27
+No One Noticed (Extended English),The Marías,2,37.5,30,10.61,59.0,61,4.74,single,2,False,2025-11-17,2025-11-18
+No Pole,Don Toliver,7,47.43,44,2.3,82.14,83,3.13,album,20,True,2025-11-13,2025-11-23
+No Role Modelz,J. Cole,272,34.51,19,7.47,90.54,92,4.88,album,13,True,2024-05-18,2025-04-12
+Noid,"Tyler, The Creator",26,19.92,3,14.6,81.92,85,4.79,single,1,True,2025-10-23,2025-11-20
+Nonsense,Sabrina Carpenter,3,48.0,45,2.65,84.33,86,2.73,album,13,False,2025-06-19,2025-06-27
+Northern Attitude (with Hozier),Noah Kahan & Hozier,8,21.75,2,12.19,71.62,79,4.45,single,1,True,2024-11-11,2024-11-18
+Nosedive (Feat. Lainey Wilson),Post Malone,5,34.2,25,7.53,63.2,72,3.21,album,18,False,2025-08-17,2025-08-21
+Not Allowed,TV Girl,25,43.72,38,3.87,88.96,90,2.8,album,10,True,2024-12-28,2025-01-27
+Not An Option,Lil Uzi Vert,1,37.0,37,0.0,64.0,64,2.51,album,16,True,2025-11-03,2025-11-03
+Not Like Us,Kendrick Lamar,201,12.0,1,12.71,93.48,98,4.57,single,1,True,2025-05-07,2025-11-27
+Novacandy,Post Malone,1,36.0,36,0.0,46.0,46,3.29,album,17,True,2024-07-29,2024-07-29
+Now And Then,The Beatles,4,34.5,24,12.56,79.5,83,4.14,single,2,False,2024-11-04,2024-11-07
+Now That We Don't Talk (Taylor's Version) (From The Vault),Taylor Swift,34,14.68,2,15.19,88.29,92,2.44,album,21,False,2024-10-29,2024-12-01
+OCEAN,Future,1,36.0,36,0.0,67.0,67,3.38,album,17,True,2025-09-22,2025-09-22
+OH LOUISIANA,Beyoncé,2,38.5,32,9.19,46.5,48,0.87,album,27,False,2025-03-31,2025-04-01
+ONE CALL,Rich Amiri,81,24.84,13,9.67,85.69,88,2.02,album,14,True,2025-01-31,2025-05-11
+Oak Island,Zach Bryan,5,33.4,18,10.95,70.6,74,3.99,album,19,False,2025-07-06,2025-07-10
+Of Course (Bonus Track),Lil Uzi Vert,1,45.0,45,0.0,68.0,68,3.48,album,26,True,2024-07-02,2024-07-02
+Oh U Went (feat. Drake),Young Thug,8,17.38,3,14.2,80.38,85,3.09,album,15,True,2024-06-25,2024-07-08
+Oklahoman Son,Zach Bryan,6,35.33,22,8.76,68.67,78,4.16,album,16,False,2024-08-26,2024-08-31
+On The Radar Freestyle,Drake & Central Cee,1,46.0,46,0.0,72.0,72,4.59,single,1,True,2024-07-29,2024-07-29
+"One Of The Girls (with JENNIE, Lily Rose Depp)",The Weeknd & JENNIE & Lily-Rose Depp,94,32.64,15,9.08,89.53,99,4.08,single,3,False,2024-12-28,2025-04-20
+One Of Your Girls,Troye Sivan,10,32.4,24,6.92,82.3,86,3.02,album,10,False,2024-10-19,2024-10-28
+One Thing At A Time,Morgan Wallen,10,45.4,38,3.75,82.3,83,3.45,album,36,False,2024-05-18,2024-05-31
+Or What,NLE Choppa,13,40.77,35,4.34,65.77,69,3.32,album,8,True,2025-10-08,2025-10-20
+Ours (Taylor’s Version),Taylor Swift,4,31.0,22,8.6,61.5,83,3.93,album,22,False,2024-07-09,2024-07-12
+Out Of My Hands,Future & Metro Boomin,2,49.0,49,0.0,71.5,73,4.05,album,25,True,2025-04-14,2025-04-15
+Out Of The Woods,Taylor Swift,1,41.0,41,0.0,72.0,72,3.93,album,13,False,2024-08-12,2024-08-12
+Out Of The Woods (Taylor's Version),Taylor Swift,11,22.36,7,13.28,78.64,88,3.93,album,21,False,2024-10-29,2024-11-08
+Overcompensate,Twenty One Pilots,1,48.0,48,0.0,76.0,76,3.93,single,2,False,2025-03-03,2025-03-03
+Overdrive,Post Malone,9,28.89,16,7.85,75.67,85,2.46,single,1,False,2024-07-16,2024-07-30
+Overtime,Zach Bryan,12,26.5,2,16.09,77.25,83,3.18,album,16,True,2024-08-26,2024-09-09
+PAID,Kanye West & Ty Dolla $ign,6,27.33,9,15.21,57.83,84,3.25,album,16,True,2025-02-12,2025-02-17
+PAPERWORK,Kanye West & Ty Dolla $ign,4,27.75,16,10.53,60.5,83,2.43,album,16,True,2025-02-13,2025-02-16
+PARASAIL,Travis Scott,3,25.0,17,7.55,53.67,82,2.58,album,19,True,2024-07-29,2024-07-31
+PARASAIL (feat. Yung Lean & Dave Chappelle),Travis Scott,3,39.67,32,8.62,83.67,84,2.58,album,19,True,2024-08-01,2024-08-03
+PERRO NEGRO,Bad Bunny,36,25.58,11,12.59,91.17,97,2.71,album,22,True,2024-10-14,2025-01-03
+PLUTOSKI,Future,1,23.0,23,0.0,68.0,68,2.98,album,17,True,2025-09-22,2025-09-22
+PRC,Peso Pluma & Natanael Cano,45,28.31,12,9.36,94.4,96,3.07,single,1,True,2024-05-18,2024-07-03
+PRESS THE BUTTON,Future,1,50.0,50,0.0,66.0,66,2.84,album,17,True,2025-09-22,2025-09-22
+PROBLEMATIC,Kanye West & Ty Dolla $ign,3,32.67,27,4.93,78.67,81,3.25,album,16,True,2025-02-13,2025-02-15
+PROMOTION,¥$ & Kanye West & Ty Dolla $ign,1,48.0,48,0.0,0.0,0,2.65,album,16,True,2025-08-04,2025-08-04
+PROTECTOR,Beyoncé,4,29.75,14,13.72,51.0,53,3.07,album,27,False,2025-03-31,2025-04-03
+Paars In The Mars,Lil Uzi Vert,1,36.0,36,0.0,64.0,64,3.0,album,16,True,2025-11-03,2025-11-03
+Paint The Town Red,Doja Cat,197,16.24,1,14.63,87.97,100,3.86,single,1,True,2024-08-06,2025-03-05
+Parade on Cleveland (feat. Drake),Young Thug,1,4.0,4,0.0,73.0,73,3.8,album,15,True,2024-06-25,2024-06-25
+Parking Lot,Mustard & Travis Scott,7,38.14,29,6.89,70.71,80,2.92,single,1,True,2025-06-22,2025-06-30
+Party In The U.S.A.,Miley Cyrus,7,14.0,4,9.76,80.71,82,3.37,album,7,False,2024-07-05,2025-07-08
+Patience (feat. Don Toliver),Lil Uzi Vert,2,36.5,23,19.09,26.5,34,4.37,album,26,False,2024-07-02,2024-07-03
+Paul Revere,Noah Kahan,1,36.0,36,0.0,65.0,65,3.56,album,21,False,2024-06-11,2024-06-11
+Pelle Coat,Lil Durk,1,41.0,41,0.0,71.0,71,4.23,album,21,True,2024-05-28,2024-05-28
+"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap & Peso Pluma,46,23.46,3,15.68,95.43,98,3.14,single,1,True,2024-06-03,2024-07-24
+Peter,Taylor Swift,7,39.43,33,6.37,81.71,85,4.73,album,31,False,2025-04-21,2025-04-27
+Pi (feat. Daylyt & Ab-Soul),J. Cole,1,25.0,25,0.0,69.0,69,5.91,album,12,True,2025-04-07,2025-04-07
+Pink + White,Frank Ocean,217,39.61,23,6.84,89.82,92,3.08,album,17,False,2024-08-24,2025-11-23
+Pink Pony Club,Chappell Roan,148,21.66,12,8.74,86.53,89,4.3,album,14,False,2025-06-24,2025-11-23
+Pink Skies,Zach Bryan,177,22.06,7,10.87,86.8,89,3.25,single,1,False,2025-05-26,2025-11-22
+Please Come Home for Christmas - 2013 Remaster,Eagles,12,38.42,24,9.98,87.33,88,2.96,single,2,False,2024-12-12,2024-12-27
+Please Please Please,Sabrina Carpenter,170,9.91,1,9.69,92.18,99,3.11,single,2,True,2025-06-09,2025-11-27
+Pluto to Mars,Lil Uzi Vert,3,26.33,19,8.08,74.67,77,4.11,album,26,True,2024-07-02,2024-07-04
+Polar Opposites,Drake,5,36.8,26,8.56,57.6,76,4.29,album,23,True,2024-10-07,2024-10-11
+Popular,Wicked Movie Cast & Cynthia Erivo & Ariana Grande,1,44.0,44,0.0,75.0,75,4.03,album,12,False,2025-11-27,2025-11-27
+Popular (with Playboi Carti & Madonna),The Weeknd & Playboi Carti & Madonna,24,38.08,3,13.33,76.92,85,3.59,single,1,True,2024-06-04,2025-03-05
+Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series),The Weeknd & Madonna,18,21.67,15,4.72,95.83,96,3.59,single,1,True,2025-01-24,2025-02-10
+Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series,The Weeknd & Madonna,27,28.96,21,7.09,93.07,95,3.59,single,1,True,2024-12-28,2025-01-23
+Popular (with Playboi Carti & Madonna) - The Idol Vol. 1 (Music from the HBO Original Series),The Weeknd & Playboi Carti & Madonna,3,29.67,23,7.02,86.67,87,3.59,single,1,True,2024-06-10,2024-06-12
+Por las Noches,Peso Pluma,41,35.15,20,10.25,92.83,93,4.0,single,1,False,2024-05-18,2024-07-18
+Pour Me A Drink (Feat. Blake Shelton),Post Malone & Blake Shelton,35,24.91,9,12.07,77.83,86,3.25,single,1,False,2025-06-22,2025-08-23
+Praise Jah In The Moonlight,YG Marley,42,34.45,21,10.04,92.9,95,4.38,single,1,True,2025-02-05,2025-03-26
+"Pricey (feat. Ari Lennox, Young Dro & Gucci Mane)",J. Cole,3,25.67,7,17.62,73.67,77,4.92,album,12,True,2025-04-07,2025-04-09
+Princess Diana (with Nicki Minaj),Ice Spice & Nicki Minaj,2,49.0,49,0.0,87.0,87,2.87,single,1,True,2024-05-19,2024-05-20
+Psycho Killer - 2005 Remaster,Talking Heads,1,46.0,46,0.0,78.0,78,4.36,album,16,False,2025-11-02,2025-11-02
+Purple Gas,Zach Bryan,2,41.0,34,9.9,65.0,67,3.0,album,19,True,2025-07-06,2025-07-07
+Push Ups,Drake,28,21.21,11,11.68,88.36,91,3.88,single,1,True,2025-04-21,2025-05-18
+QLONA,KAROL G,85,28.4,14,10.67,89.45,94,2.88,album,9,True,2024-08-13,2025-01-02
+Que Onda,Calle 24 & Chino Pacas & Fuerza Regida,56,44.59,36,2.92,93.93,95,3.19,single,1,True,2024-10-22,2025-02-02
+Qué Pasaría...,Rauw Alejandro,9,35.67,14,10.7,79.78,84,3.18,album,18,True,2025-11-17,2025-11-25
+READY TO COOK UP,Future,1,26.0,26,0.0,68.0,68,2.79,album,17,True,2025-09-22,2025-09-22
+RELOJ,Peso Pluma,2,47.0,47,0.0,31.5,63,3.87,album,24,True,2025-06-22,2025-06-23
+RIIVERDANCE,Beyoncé,4,36.5,28,8.06,74.25,77,4.2,album,27,True,2025-03-31,2025-04-03
+ROSA PASTEL,Peso Pluma,1,48.0,48,0.0,68.0,68,3.4,album,14,True,2024-06-25,2024-06-25
+Rah Tah Tah,"Tyler, The Creator",25,18.68,2,12.69,85.76,87,2.76,album,14,True,2025-10-30,2025-11-23
+Ready ‘24 (feat. Cam’ron),J. Cole,2,22.5,11,16.26,71.0,71,3.5,album,12,True,2025-04-07,2025-04-08
+Red Button,Drake,2,20.0,6,19.8,33.5,67,2.67,album,29,True,2024-11-18,2024-11-19
+Red Leather,Future & Metro Boomin,2,40.0,40,0.0,71.0,73,6.91,album,25,True,2025-04-14,2025-04-15
+Red Wine Supernova,Chappell Roan,149,27.54,14,9.54,86.26,89,3.21,album,14,True,2025-04-16,2025-10-29
+Rehab,Lil Uzi Vert,1,48.0,48,0.0,68.0,68,4.08,album,26,True,2024-07-02,2024-07-02
+Religiously,Bailey Zimmerman,67,33.88,21,7.17,85.27,86,2.98,album,16,False,2024-07-19,2024-10-01
+Renaissance,Eminem,7,21.71,2,14.73,80.57,84,1.64,album,19,True,2025-07-14,2025-07-20
+Rich Baby Daddy (feat. Sexyy Red & SZA),Drake,141,26.33,10,9.66,88.78,93,5.32,album,23,True,2024-10-07,2025-03-30
+Rich Flex,Drake & 21 Savage,18,44.06,38,3.47,90.0,90,3.99,album,16,True,2024-05-18,2024-06-12
+Rich Girl,Daryl Hall & John Oates,2,35.0,30,7.07,83.0,83,2.38,album,9,False,2025-07-06,2025-07-07
+Rich Men North of Richmond,Oliver Anthony Music,54,15.72,1,12.04,86.65,90,3.12,single,1,False,2024-08-14,2024-10-06
+Road Rage,Eminem,1,23.0,23,0.0,71.0,71,3.63,album,19,True,2025-07-14,2025-07-14
+Robin,Taylor Swift,4,42.75,37,6.65,78.5,81,4.01,album,31,False,2025-04-21,2025-04-24
+Rockin' Around The Christmas Tree,Brenda Lee,61,12.8,1,15.46,89.66,98,2.1,album,12,False,2024-11-13,2025-11-27
+Romantic Homicide,d4vd,22,47.73,43,2.05,90.32,91,2.21,single,1,False,2024-05-18,2025-03-08
+Rompe La Dompe,Peso Pluma & Junior H & Oscar Maydon,1,32.0,32,0.0,0.0,0,2.76,single,1,True,2024-12-30,2024-12-30
+Rudolph The Red-Nosed Reindeer,Burl Ives,8,38.88,29,9.22,85.75,86,2.17,album,12,False,2024-12-17,2024-12-27
+Run Rudolph Run,Chuck Berry,20,32.65,21,8.89,86.2,89,2.76,album,20,False,2024-11-25,2024-12-27
+Runnin Outta Time,Future & Metro Boomin,3,32.33,17,13.43,51.33,78,3.42,album,17,True,2025-03-24,2025-03-27
+Rush,Troye Sivan,10,42.8,38,3.22,85.1,89,2.61,single,1,True,2024-07-16,2024-07-28
+S91,KAROL G,1,23.0,23,0.0,50.0,50,2.88,album,9,False,2024-08-13,2024-08-13
+SABOR FRESA,Fuerza Regida,47,32.4,10,10.79,91.32,94,2.61,single,1,True,2024-06-25,2024-08-24
+SAY MY GRACE (feat. Travis Scott),Offset,6,31.17,25,9.0,64.5,80,2.89,album,21,True,2024-10-14,2024-10-19
+SEDA,Bad Bunny,5,26.4,8,16.88,65.8,86,3.17,album,22,True,2024-10-14,2024-10-18
+SIRENS,Travis Scott,9,20.89,9,10.47,77.0,89,3.41,album,19,True,2024-07-29,2024-08-06
+SKI,Future,2,29.0,14,21.21,70.5,72,2.46,album,17,True,2025-09-22,2025-09-23
+SKINNY,Billie Eilish,14,24.07,9,11.39,85.93,90,3.66,album,10,False,2025-05-19,2025-06-01
+SKITZO,Travis Scott,3,17.33,14,3.51,54.33,83,6.11,album,19,True,2024-07-29,2024-07-31
+SKITZO (feat. Young Thug),Travis Scott,5,24.2,20,3.83,85.8,87,6.11,album,19,True,2024-08-01,2024-08-05
+SLIDE,¥$ & Kanye West & Ty Dolla $ign,3,40.0,28,10.39,47.0,72,3.3,album,16,True,2025-08-04,2025-08-06
+SLUT ME OUT,NLE Choppa,33,36.55,17,9.22,76.03,78,2.06,album,22,True,2024-05-18,2024-06-22
+SMOKE HOUR ★ WILLIE NELSON,Beyoncé,3,28.33,17,13.32,50.67,53,0.85,album,27,False,2025-03-31,2025-04-02
+SPAGHETTII,Beyoncé,6,29.83,15,12.3,78.5,81,2.64,album,27,True,2025-03-31,2025-04-05
+STARS,Kanye West & Ty Dolla $ign,6,14.83,4,7.76,59.33,86,1.92,album,16,True,2025-02-12,2025-02-17
+SWEET ★ HONEY ★ BUCKIIN',Beyoncé,2,41.5,37,6.36,71.0,73,4.94,album,27,True,2025-03-31,2025-04-01
+Sailor Song,Gigi Perez,94,14.78,3,11.13,85.72,94,3.53,single,1,False,2025-08-22,2025-11-27
+Santa Baby (with Henri René & His Orchestra),Eartha Kitt,23,30.57,18,11.29,77.3,79,3.43,album,14,False,2024-11-25,2024-12-27
+"Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",Bruce Springsteen,5,35.2,31,7.19,86.0,86,4.46,single,1,False,2024-12-23,2024-12-27
+Santa Claus Is Coming To Town,The Jackson 5,5,38.2,33,7.4,87.0,87,2.4,album,11,False,2024-12-19,2024-12-27
+Santa Tell Me,Ariana Grande,37,18.89,7,12.32,91.76,96,3.4,single,1,False,2024-11-23,2025-11-26
+Santa Tell Me - Naughty Version,Ariana Grande,2,9.5,9,0.71,59.0,62,3.39,single,7,False,2024-12-13,2024-12-14
+"Santa, Can’t You Hear Me",Kelly Clarkson,4,45.25,42,2.36,87.0,87,4.04,album,15,False,2024-12-24,2024-12-27
+Sarah's Place (feat. Noah Kahan),Zach Bryan & Noah Kahan,13,24.08,4,14.87,66.08,75,3.57,single,1,False,2024-09-24,2024-10-06
+Saturn,SZA,119,22.92,3,12.59,89.92,94,3.1,single,5,False,2025-02-25,2025-06-28
+Saturn Returns Interlude,Ariana Grande,5,32.0,19,9.95,79.6,83,0.7,album,13,False,2025-03-10,2025-03-15
+Say Don't Go (Taylor's Version) (From The Vault),Taylor Swift,23,18.3,4,14.86,85.35,90,4.66,album,21,False,2024-10-29,2024-11-21
+Say Yes To Heaven,Lana Del Rey,15,39.6,10,10.8,86.67,91,3.49,single,2,False,2024-05-21,2024-06-08
+Scared To Start,Michael Marcagi,127,38.98,13,10.54,89.14,92,2.66,single,1,False,2025-03-03,2025-09-07
+Screw The World - Interlude,Drake,2,24.5,21,4.95,34.0,68,1.87,album,23,True,2024-10-07,2024-10-08
+Search & Rescue,Drake,84,31.0,11,12.55,90.17,91,4.54,single,1,True,2024-05-18,2024-09-09
+See You Again (feat. Kali Uchis),"Tyler, The Creator",444,29.38,4,11.81,91.09,96,3.01,album,14,True,2024-05-18,2025-11-26
+Seen it All,Future & Metro Boomin,1,39.0,39,0.0,0.0,0,2.99,album,17,True,2025-03-24,2025-03-24
+Self Love (Spider-Man: Across the Spider-Verse) (Metro Boomin & Coi Leray),Metro Boomin,25,27.44,17,10.8,86.64,90,3.16,album,13,False,2024-06-06,2024-06-30
+Selfish,Justin Timberlake,2,44.0,44,0.0,73.0,73,3.82,single,1,False,2025-01-28,2025-01-29
+September,"Earth, Wind & Fire & sped up + slowed",3,19.67,12,7.09,83.33,85,3.6,single,3,False,2024-09-23,2025-09-24
+Seven (feat. Latto) (Explicit Ver.),Jung Kook & Latto,89,22.49,1,9.93,96.29,100,3.07,single,3,True,2024-07-16,2024-11-09
+Shake It Off,Taylor Swift,1,34.0,34,0.0,79.0,79,3.65,album,13,False,2024-08-12,2024-08-12
+Shake It Off (Taylor's Version),Taylor Swift,6,31.83,15,13.26,69.83,86,3.65,album,21,False,2024-10-29,2024-11-03
+Sharpest Tool,Sabrina Carpenter,23,26.52,8,13.85,82.7,87,3.64,album,12,True,2025-08-24,2025-09-15
+She Calls Me Back (with Kacey Musgraves),Noah Kahan & Kacey Musgraves,1,46.0,46,0.0,31.0,31,4.07,single,1,True,2024-10-07,2024-10-07
+She Stank,Lil Uzi Vert,1,50.0,50,0.0,63.0,63,2.1,album,16,True,2025-11-03,2025-11-03
+Should've Been A Cowboy,Toby Keith,5,27.4,5,16.92,77.6,79,3.52,album,10,False,2025-02-08,2025-02-12
+Shut up My Moms Calling,Hotel Ugly,45,46.36,41,2.94,89.24,91,2.74,single,1,False,2024-09-18,2025-11-15
+Si Antes Te Hubiera Conocido,KAROL G,51,46.57,36,3.31,95.31,96,3.26,single,1,False,2025-07-15,2025-09-21
+Si No Quieres No,Luis R Conriquez & Neton Vega,1,50.0,50,0.0,89.0,89,2.45,single,1,False,2025-06-03,2025-06-03
+Sign Me Up,Post Malone,1,44.0,44,0.0,44.0,44,3.32,album,17,True,2024-07-29,2024-07-29
+Single Soon,Selena Gomez,10,35.6,21,8.63,75.8,88,2.86,single,1,False,2024-08-26,2024-09-06
+Skin and Bones,David Kushner,1,37.0,37,0.0,73.0,73,3.58,single,1,False,2025-01-21,2025-01-21
+Sleigh Ride,The Ronettes,34,19.38,9,8.32,79.94,84,3.02,album,15,False,2024-11-24,2024-12-27
+Slim Pickins,Sabrina Carpenter,16,24.94,13,10.3,79.75,85,2.54,album,12,False,2025-08-24,2025-09-08
+Slime You Out (feat. SZA),Drake & SZA,42,16.57,1,12.37,82.48,90,5.17,single,1,True,2024-09-17,2024-10-28
+Slimed In,Future & Metro Boomin,5,26.0,13,11.09,63.4,81,3.25,album,17,True,2025-03-24,2025-03-29
+Slow It Down,Benson Boone,197,37.36,19,7.21,87.13,90,2.7,single,1,False,2025-03-24,2025-11-18
+Smaller Acts,Zach Bryan,11,33.0,19,11.91,74.18,81,3.12,album,16,True,2024-08-26,2024-09-08
+Smeraldo Garden Marching Band (feat. Loco),Jimin & Loco,14,40.71,24,7.97,88.64,93,3.05,single,1,False,2025-06-30,2025-07-17
+Snooze,SZA,282,30.45,9,12.32,91.88,94,3.36,album,23,True,2024-05-18,2025-06-21
+Snooze (Acoustic) (feat. Justin Bieber),SZA & Justin Bieber,1,36.0,36,0.0,0.0,0,3.17,single,1,True,2024-09-17,2024-09-17
+Snow On The Beach (feat. More Lana Del Rey),Taylor Swift,3,20.0,4,16.52,79.33,81,3.83,album,23,True,2024-05-28,2024-05-30
+Snowman,Sia,5,43.6,38,4.28,94.0,94,2.76,album,13,False,2024-12-23,2024-12-27
+So High School,Taylor Swift,18,32.78,21,9.66,86.28,89,3.81,album,31,False,2025-04-21,2025-05-16
+"So Long, London",Taylor Swift,35,19.4,4,14.78,84.97,86,4.38,album,16,False,2025-04-21,2025-05-25
+Somebody Save Me,Eminem,10,37.7,24,7.57,78.4,82,3.84,album,19,True,2025-07-14,2025-07-24
+Somebody's Watching Me - Single Version,Rockwell,3,19.33,7,19.66,78.33,79,3.98,single,2,False,2024-11-01,2025-11-03
+Something Real,Post Malone,4,39.25,29,8.3,68.5,78,3.42,album,17,True,2024-07-29,2024-08-01
+Something in the Orange,Zach Bryan,536,26.29,9,9.35,88.37,91,3.8,single,4,False,2024-05-18,2025-11-23
+Sparks Fly (Taylor’s Version),Taylor Swift,7,14.71,3,11.34,75.14,89,4.35,album,22,False,2024-07-09,2024-07-15
+Speak Now (Taylor's Version),Taylor Swift,7,22.71,8,15.23,74.71,89,4.04,album,22,False,2024-07-09,2024-07-15
+Speed Drive (From Barbie The Album),Charli XCX,30,37.33,23,8.02,87.93,89,1.96,single,1,False,2024-07-25,2024-08-23
+Spin Again,Lil Uzi Vert,2,25.5,13,17.68,74.5,76,1.63,album,26,True,2024-07-02,2024-07-03
+Spin You Around (1/24),Morgan Wallen,10,34.5,23,9.99,76.4,81,3.49,single,1,False,2025-01-28,2025-02-06
+"Spooky, Scary Skeletons - Undead Tombstone Remix",Andrew Gold,2,17.5,11,9.19,77.0,77,2.09,album,14,False,2024-11-01,2025-11-02
+Spotless (feat. The Lumineers),Zach Bryan,28,25.82,6,15.44,81.25,85,2.82,album,16,True,2024-08-26,2024-09-22
+St. Chroma (feat. Daniel Caesar),"Tyler, The Creator",29,7.55,1,8.74,88.45,90,3.28,album,14,True,2025-10-30,2025-11-27
+Stand By Me (feat. Morgan Wallen),Lil Durk,31,19.52,3,11.73,84.87,87,3.65,album,21,True,2024-05-28,2024-07-01
+Standing Next to You,Jung Kook,14,25.07,17,7.33,86.0,96,3.43,album,11,False,2024-11-04,2024-11-17
+Stargazing,Myles Smith,76,37.43,23,7.58,90.75,93,2.88,single,1,False,2025-05-24,2025-08-16
+Stealth Mode (feat. Bas),J. Cole,1,33.0,33,0.0,68.0,68,2.25,album,12,True,2025-04-07,2025-04-07
+Stick Season,Noah Kahan,414,18.29,1,11.36,91.1,98,3.04,album,14,False,2024-09-27,2025-11-27
+"Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)","Tyler, The Creator",29,4.55,2,3.15,85.93,89,4.27,album,14,True,2025-10-30,2025-11-27
+Stickz N Stonez,J. Cole,2,33.0,18,21.21,69.0,69,3.35,album,12,True,2025-04-07,2025-04-08
+Stories About My Brother,Drake,2,29.5,12,24.75,33.5,67,4.4,album,29,True,2024-11-18,2024-11-19
+Story of My Life,One Direction,6,37.83,24,11.14,84.67,87,4.09,album,18,False,2025-10-19,2025-10-26
+Strangers,Kenya Grace,83,33.24,15,9.79,95.8,98,2.88,single,1,False,2024-09-18,2025-01-13
+Style,Taylor Swift,38,34.39,8,10.85,82.89,84,3.85,album,13,False,2024-07-16,2024-10-28
+Style (Taylor's Version),Taylor Swift,18,26.39,5,15.78,84.0,90,3.85,album,21,False,2024-10-29,2024-11-15
+Suburban Legends (Taylor's Version) (From The Vault),Taylor Swift,14,15.86,5,12.8,80.5,88,2.86,album,21,False,2024-10-29,2024-11-11
+Suicide Doors,Lil Uzi Vert,3,7.0,3,4.0,79.33,81,4.32,album,26,True,2024-07-02,2024-07-04
+Summertime's Close,Zach Bryan,12,27.33,4,14.75,76.75,83,3.1,album,16,False,2024-08-26,2024-09-09
+Sun to Me,Zach Bryan,82,44.21,33,4.42,83.94,85,2.72,album,34,False,2024-09-05,2025-10-19
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,44,36.09,26,6.78,87.18,89,2.63,album,17,False,2024-06-05,2024-07-28
+Super Freak,Rick James,1,35.0,35,0.0,76.0,76,3.42,album,25,False,2025-11-02,2025-11-02
+Super Shy,NewJeans,51,25.55,9,10.55,91.55,95,2.58,single,2,False,2024-07-09,2024-09-09
+Superhero (Heroes & Villains) [with Future & Chris Brown],Metro Boomin,40,38.67,25,6.24,90.22,91,3.04,album,15,True,2024-05-18,2024-07-08
+Superman (Taylor’s Version),Taylor Swift,3,32.33,23,11.37,53.67,81,4.58,album,22,False,2024-07-09,2024-07-11
+Sure Thing,Miguel,16,43.62,35,4.5,90.88,91,3.26,album,13,False,2024-05-18,2025-01-11
+Surround Sound (feat. 21 Savage & Baby Tate),JID,110,25.55,9,11.93,92.18,94,3.83,album,16,True,2024-11-28,2025-03-23
+Sweater Weather,The Neighbourhood,183,37.25,21,7.91,90.93,93,4.01,album,11,False,2024-09-12,2025-11-27
+Sweet Dreams,Koe Wetzel,4,43.5,42,1.91,75.25,76,2.89,single,3,False,2025-05-24,2025-05-27
+Sweet Home Alabama,Lynyrd Skynyrd,3,33.0,26,12.12,84.33,86,4.73,album,11,True,2024-07-05,2025-07-06
+Sympathy is a knife featuring ariana grande,Charli xcx,6,29.83,8,13.08,75.67,78,2.57,album,34,True,2025-10-13,2025-10-18
+TALKING,Kanye West & Ty Dolla $ign,6,15.5,6,9.5,70.17,84,3.09,album,16,True,2025-02-12,2025-02-17
+TEFLON DON,Future,6,35.83,10,14.97,75.17,78,2.66,album,17,True,2025-09-22,2025-09-27
+TELEFONO NUEVO,Bad Bunny,5,23.0,10,11.87,65.8,86,5.91,album,22,True,2024-10-14,2024-10-18
+TELEKINESIS,Travis Scott,3,13.67,12,1.53,54.33,83,5.9,album,19,True,2024-07-29,2024-07-31
+TELEKINESIS (feat. SZA & Future),Travis Scott,67,28.61,10,11.83,90.57,92,5.9,album,19,True,2024-08-01,2024-10-06
+TEXAS HOLD 'EM,Beyoncé,64,13.67,1,11.15,82.62,87,3.93,single,1,True,2025-02-14,2025-04-20
+TGIF,GloRilla,2,36.5,36,0.71,67.5,68,2.74,album,15,True,2025-10-28,2025-10-29
+THANK GOD,Travis Scott,9,14.33,4,6.95,78.44,90,3.08,album,19,True,2024-07-29,2024-08-06
+THE DINER,Billie Eilish,14,30.21,16,9.66,83.79,88,3.11,album,10,False,2025-05-19,2025-06-01
+THE GREATEST,Billie Eilish,18,29.33,11,12.84,85.78,89,4.9,album,10,False,2025-05-19,2025-06-07
+THUNDER Y LIGHTNING,Bad Bunny,2,30.0,30,0.0,39.0,78,3.62,album,22,True,2024-10-14,2024-10-15
+TIL FURTHER NOTICE,Travis Scott,3,20.33,18,2.08,53.67,82,5.25,album,19,True,2024-07-29,2024-07-31
+TIL FURTHER NOTICE (feat. James Blake & 21 Savage),Travis Scott,6,27.5,22,10.15,85.83,87,5.25,album,19,True,2024-08-01,2024-08-06
+TOO FAST,Future,2,33.5,17,23.33,70.5,72,3.43,album,17,True,2025-09-22,2025-09-23
+TOO MUCH,The Kid LAROI & Jung Kook & Central Cee,1,33.0,33,0.0,55.0,55,3.4,single,1,True,2024-10-21,2024-10-21
+TOPIA TWINS,Travis Scott,3,7.0,4,3.0,55.67,85,3.72,album,19,True,2024-07-29,2024-07-31
+TOPIA TWINS (feat. Rob49 & 21 Savage),Travis Scott,18,26.94,7,11.63,89.22,90,3.72,album,19,True,2024-08-01,2024-08-18
+TQG,KAROL G,1,50.0,50,0.0,96.0,96,3.3,album,17,True,2024-05-18,2024-05-18
+TQM,Fuerza Regida,68,25.03,8,10.13,92.59,96,2.65,single,1,True,2024-05-22,2024-07-28
+TULUM,Peso Pluma,22,37.91,28,6.75,88.91,93,3.49,album,17,True,2024-07-03,2024-08-20
+TV,Billie Eilish,1,50.0,50,0.0,81.0,81,4.69,single,2,False,2025-11-09,2025-11-09
+TYRANT,Beyoncé,4,37.0,33,4.9,49.5,53,4.18,album,27,False,2025-03-31,2025-04-03
+"Take Me Home, Country Roads",John Denver,2,42.0,42,0.0,78.5,79,3.3,album,11,False,2024-07-05,2024-07-06
+Take Two,BTS,1,17.0,17,0.0,83.0,83,3.83,single,1,False,2024-06-11,2024-06-11
+Take Your Mask Off (feat. Daniel Caesar & LaToiya Williams),"Tyler, The Creator",12,26.0,8,13.26,81.17,83,4.23,album,14,True,2025-10-30,2025-11-10
+Talk talk featuring troye sivan,Charli xcx & Troye Sivan,2,47.0,46,1.41,67.5,72,2.88,single,1,True,2025-09-15,2025-10-13
+Talking / Once Again,¥$ & Kanye West & Ty Dolla $ign,1,33.0,33,0.0,73.0,73,3.09,single,1,True,2025-02-11,2025-02-11
+Taste,Sabrina Carpenter,96,4.62,1,5.49,93.26,96,2.62,album,12,False,2025-08-24,2025-11-27
+Tell Ur Girlfriend,Lay Bankz,33,34.76,16,9.31,87.09,91,2.07,single,1,True,2025-04-11,2025-05-14
+Temporary,Eminem,1,27.0,27,0.0,70.0,70,4.96,album,19,True,2025-07-14,2025-07-14
+That Fiya,Lil Uzi Vert,1,20.0,20,0.0,72.0,72,2.58,album,26,True,2024-07-02,2024-07-02
+That’s So True,Gracie Abrams,38,8.05,1,9.86,87.29,94,2.77,album,20,True,2025-10-20,2025-11-27
+The Addams Family,Andrew Gold,1,39.0,39,0.0,72.0,72,1.41,album,12,False,2025-11-02,2025-11-02
+The Albatross,Taylor Swift,10,33.3,24,9.45,84.6,87,3.06,album,31,False,2025-04-21,2025-05-01
+The Alchemy,Taylor Swift,21,28.76,11,14.47,80.43,81,3.28,album,16,False,2025-04-21,2025-05-15
+The Black Dog,Taylor Swift,15,31.07,20,10.21,86.33,88,3.98,album,31,True,2025-04-21,2025-05-05
+The Bolter,Taylor Swift,7,39.71,34,5.25,81.0,84,3.97,album,31,True,2025-04-21,2025-04-27
+The Christmas Song (Merry Christmas To You),Nat King Cole,34,19.85,10,6.74,81.62,90,3.2,album,19,False,2024-11-24,2024-12-27
+The Emptiness Machine,Linkin Park,16,33.12,17,9.93,87.31,93,3.17,single,1,True,2025-09-08,2025-11-17
+The End (feat. BABYMETAL),Lil Uzi Vert,1,43.0,43,0.0,25.0,25,3.12,album,26,False,2024-07-02,2024-07-02
+The Great American Bar Scene,Zach Bryan,2,23.0,14,12.73,68.0,70,3.61,album,19,False,2025-07-06,2025-07-07
+The Kind of Love We Make,Luke Combs,7,47.43,44,2.15,83.57,84,3.74,album,12,False,2024-05-30,2024-07-24
+The Man He Sees in Me,Luke Combs,7,28.0,14,11.6,60.14,71,2.75,single,1,False,2025-06-14,2025-06-20
+The Manuscript,Taylor Swift,5,42.8,36,6.3,79.8,82,3.75,album,31,False,2025-04-21,2025-04-25
+The Prophecy,Taylor Swift,13,34.46,25,8.67,84.92,88,4.16,album,31,False,2025-04-21,2025-05-03
+The Rush (feat. Big Time Rush),Lil Uzi Vert,1,33.0,33,0.0,65.0,65,3.11,album,16,True,2025-11-03,2025-11-03
+The Shoe Fits,Drake,2,25.0,15,14.14,33.5,67,6.23,album,29,True,2024-11-18,2024-11-19
+The Smallest Man Who Ever Lived,Taylor Swift,28,26.79,12,10.76,80.04,81,4.09,album,16,True,2025-04-21,2025-05-18
+The Story Of Us (Taylor's Version),Taylor Swift,6,24.33,13,11.67,71.5,87,4.46,album,22,False,2024-07-09,2024-07-14
+The Thin Grey Line,$uicideboy$,5,40.6,24,10.45,57.0,67,1.76,album,13,True,2025-06-16,2025-06-20
+The Tortured Poets Department,Taylor Swift,28,22.86,5,12.18,84.96,86,4.88,album,16,True,2025-04-21,2025-05-18
+The Way Back,Zach Bryan,3,44.33,36,7.37,67.67,71,3.09,album,19,True,2025-07-06,2025-07-09
+"The girl, so confusing version with lorde",Charli xcx & Lorde,2,25.0,25,0.0,33.5,67,3.43,single,1,False,2025-06-22,2025-06-23
+Thick Of It (feat. Trippie Redd),KSI & Trippie Redd,2,48.0,46,2.83,75.0,75,2.68,single,2,False,2025-10-14,2025-10-15
+Think U The Shit (Fart),Ice Spice,15,28.0,14,11.78,80.27,85,2.36,single,1,True,2025-01-28,2025-02-12
+Thinkin Bout You,Frank Ocean,7,43.57,36,5.53,87.57,88,3.35,album,17,False,2025-02-24,2025-03-02
+Thinkin’ Bout Me,Morgan Wallen,324,39.02,21,7.14,85.99,88,2.96,album,36,False,2024-05-18,2025-10-14
+This Christmas,Donny Hathaway,5,35.8,30,7.92,74.0,74,3.85,album,11,False,2024-12-23,2024-12-27
+This Is Halloween,Various Artists,6,23.17,4,19.32,59.83,66,3.28,compilation,20,False,2024-10-29,2025-11-03
+This Love (Taylor’s Version),Taylor Swift,6,35.83,21,11.5,67.83,83,4.17,album,21,False,2024-10-29,2024-11-03
+This World's A Giant,Zach Bryan,3,23.0,11,10.58,64.67,66,3.6,single,1,False,2025-11-09,2025-11-11
+Thought I Was Dead (feat. ScHoolboy Q & Santigold),"Tyler, The Creator",25,26.4,6,14.13,83.48,85,3.45,album,14,True,2025-10-30,2025-11-23
+Thriller,Michael Jackson,5,25.2,7,17.37,73.6,74,5.96,album,9,False,2024-10-30,2025-11-03
+Thriller - 2003 Edit,Michael Jackson,1,23.0,23,0.0,56.0,56,5.19,compilation,18,False,2025-11-02,2025-11-02
+Ticking,Zach Bryan,13,26.62,10,13.2,76.77,83,4.04,album,16,False,2024-08-26,2024-09-09
+Timeless (Taylor’s Version) (From The Vault),Taylor Swift,6,24.0,16,8.85,70.0,86,5.36,album,22,False,2024-07-09,2024-07-14
+Timeless (with Playboi Carti),The Weeknd & Playboi Carti,60,10.08,1,6.92,90.7,92,4.27,single,1,True,2025-09-29,2025-11-27
+Tobey (feat. Big Sean and BabyTron),Eminem & Big Sean & BabyTron,16,30.5,15,8.55,76.5,83,4.75,single,1,True,2025-07-04,2025-07-21
+Tomorrow,"Tyler, The Creator",9,31.33,11,14.47,79.44,82,3.04,album,14,True,2025-10-30,2025-11-07
+Too Cool To Die,Post Malone,1,38.0,38,0.0,45.0,45,3.42,album,17,True,2024-07-29,2024-07-29
+Too Sweet,Hozier,230,16.47,1,11.68,83.35,91,4.19,single,4,False,2025-03-24,2025-11-18
+Total Eclipse of the Heart,Bonnie Tyler,1,36.0,36,0.0,80.0,80,4.46,compilation,48,False,2025-04-10,2025-04-10
+Tough,Quavo & Lana Del Rey,20,28.45,15,10.0,84.35,88,3.15,single,1,False,2025-07-05,2025-07-25
+Tourniquet,Zach Bryan,42,29.83,8,14.45,82.5,85,3.15,album,16,True,2024-08-26,2024-10-06
+Tradesman,Zach Bryan,8,32.38,18,9.21,71.75,80,3.13,album,16,False,2024-08-26,2024-09-02
+Trae The Truth in Ibiza,J. Cole,1,34.0,34,0.0,67.0,67,4.26,album,12,True,2025-04-07,2025-04-07
+Training Season,Dua Lipa,8,32.0,24,6.46,85.25,89,3.49,single,4,False,2025-02-18,2025-02-25
+Trance (with Travis Scott & Young Thug),Metro Boomin,19,44.42,33,4.79,90.32,91,3.25,album,15,True,2024-05-18,2024-06-17
+Tried Our Best,Drake,7,21.43,12,6.11,66.0,81,3.5,album,23,True,2024-10-07,2024-10-13
+Trouble,Eminem,4,26.5,11,10.6,77.25,80,0.69,album,19,True,2025-07-14,2025-07-17
+Try That In A Small Town,Jason Aldean,7,12.14,6,4.98,77.29,80,3.0,single,2,True,2024-07-22,2024-07-28
+Tu Boda,Oscar Maydon & Fuerza Regida,39,23.59,11,7.7,91.33,93,3.76,single,1,True,2025-10-20,2025-11-27
+Turks & Caicos (feat. 21 Savage),Rod Wave,1,43.0,43,0.0,66.0,66,3.39,album,18,True,2024-09-17,2024-09-17
+Two Faced,Linkin Park,1,46.0,46,0.0,69.0,69,3.06,album,11,False,2025-11-17,2025-11-17
+Type Shit,Future & Metro Boomin,85,25.67,3,13.61,88.61,92,3.8,album,17,True,2025-03-24,2025-06-19
+Tú Con Él,Rauw Alejandro,1,44.0,44,0.0,69.0,69,4.82,album,18,False,2025-11-17,2025-11-17
+UN PREVIEW,Bad Bunny,17,26.24,3,14.34,74.35,92,2.76,single,1,False,2024-09-27,2024-10-18
+UNA NOCHE EN MEDELLÍN - REMIX,KAROL G,1,40.0,40,0.0,56.0,56,3.42,album,9,True,2024-08-13,2024-08-13
+Una Velita,Bad Bunny,1,20.0,20,0.0,72.0,72,4.0,single,1,True,2025-09-22,2025-09-22
+Uncle M,Young Thug,1,38.0,38,0.0,69.0,69,2.33,album,15,True,2024-06-25,2024-06-25
+Underneath the Tree,Kelly Clarkson,34,20.29,10,8.78,83.06,86,3.83,album,14,False,2024-11-24,2024-12-27
+Used To Be Young,Miley Cyrus,17,22.94,10,11.95,74.41,84,3.19,album,14,False,2024-08-26,2024-09-11
+VOU 787,Bad Bunny,3,23.67,11,21.94,53.33,80,2.06,album,22,True,2024-10-14,2024-10-16
+VUELVE CANDY B,Bad Bunny,2,22.0,22,0.0,39.0,78,4.44,album,22,True,2024-10-14,2024-10-15
+VULTURES,Kanye West & Ty Dolla $ign,4,28.25,17,14.17,66.25,82,4.62,album,16,True,2025-02-13,2025-02-17
+VVS,Peso Pluma,4,29.0,16,10.39,78.0,81,2.71,album,14,True,2024-06-25,2024-06-28
+Virginia Beach,Drake,28,19.07,2,12.12,82.61,88,4.18,album,23,True,2024-10-07,2024-11-23
+Vultures,¥$ & Kanye West & Ty Dolla $ign,2,33.5,33,0.71,32.5,65,3.96,single,1,True,2024-11-23,2025-02-16
+WHATCHU KNO ABOUT ME (feat. Sexyy Red),GloRilla,12,33.42,22,6.92,78.25,80,2.49,album,15,True,2025-11-16,2025-11-27
+WHERE SHE GOES,Bad Bunny,94,21.8,1,14.55,95.29,100,3.86,single,1,True,2024-05-21,2024-10-18
+WHISKEY WHISKEY (feat. Morgan Wallen),Moneybagg Yo,3,39.67,38,2.89,64.33,67,2.68,album,17,True,2025-06-20,2025-06-23
+WILDFLOWER,Billie Eilish,147,27.96,10,12.54,90.07,93,4.36,album,10,False,2025-05-19,2025-11-27
+WTFYM,Future & Metro Boomin,1,40.0,40,0.0,0.0,0,4.88,album,17,True,2025-03-24,2025-03-24
+Wagon Wheel,Darius Rucker,2,41.0,41,0.0,83.0,83,4.97,album,12,False,2024-07-05,2024-07-06
+Wanna Be (with Megan Thee Stallion),GloRilla,19,37.63,25,8.97,75.74,82,2.61,album,12,True,2025-04-08,2025-06-08
+Want Me Dead (feat. 21 Savage),Young Thug,1,33.0,33,0.0,69.0,69,3.25,album,15,True,2024-06-25,2024-06-25
+War Bout It (feat. 21 Savage),Lil Durk,3,29.33,13,17.62,77.33,80,2.67,album,21,True,2024-05-28,2024-05-30
+Wasted On You,Morgan Wallen,193,34.74,14,11.07,86.57,89,2.98,album,30,False,2024-05-18,2025-04-20
+Watch This - ARIZONATEARS Pluggnb Remix,Lil Uzi Vert & sped up nightcore & ARIZONATEARS,3,47.0,46,1.0,89.0,89,2.72,single,1,True,2024-05-18,2024-05-20
+Water,Tyla,52,31.42,11,8.29,94.37,96,3.34,single,1,False,2024-10-19,2025-03-05
+We Don't Trust You,Future & Metro Boomin,13,27.31,4,16.95,78.15,86,3.77,album,17,True,2025-03-24,2025-04-06
+We Found Love,Rihanna,1,38.0,38,0.0,85.0,85,3.59,album,11,False,2025-01-03,2025-01-03
+We Good,Lil Uzi Vert,1,14.0,14,0.0,67.0,67,2.08,album,16,True,2025-11-03,2025-11-03
+We Still Don't Trust You,Future & Metro Boomin,7,22.71,15,5.85,80.71,84,4.22,album,25,True,2025-04-14,2025-04-20
+Welcome To New York (Taylor's Version),Taylor Swift,10,24.0,9,12.29,77.6,88,3.54,album,21,False,2024-10-29,2024-11-07
+Werewolf (feat. Bring Me The Horizon),Lil Uzi Vert,3,34.67,24,12.9,74.33,77,4.0,album,26,True,2024-07-02,2024-07-04
+What Don't Belong To Me,Post Malone,7,27.57,16,11.76,68.14,76,3.45,album,18,False,2025-08-17,2025-08-23
+What Is This Feeling?,Wicked Movie Cast & Cynthia Erivo & Ariana Grande,1,45.0,45,0.0,73.0,73,3.82,album,12,False,2025-11-27,2025-11-27
+"What Was I Made For? [From The Motion Picture ""Barbie""]",Billie Eilish,142,26.46,3,13.73,95.24,98,3.71,single,1,False,2024-07-16,2025-03-16
+What Would Pluto Do,Drake,7,18.29,14,3.3,66.0,81,3.05,album,23,True,2024-10-07,2024-10-13
+Whatever She Wants,Bryson Tiller,79,23.41,4,14.54,87.82,90,2.69,single,1,True,2025-02-19,2025-05-23
+Whatever She Wants [BONUS],Bryson Tiller,10,20.9,17,2.08,62.7,70,2.69,album,19,True,2025-04-07,2025-04-16
+When Emma Falls in Love (Taylor’s Version) (From The Vault),Taylor Swift,7,21.57,12,12.55,73.43,87,4.21,album,22,False,2024-07-09,2024-07-15
+When It Rains It Pours,Luke Combs,6,47.17,43,3.31,84.5,86,4.01,album,12,False,2024-07-05,2025-07-30
+Where the Wild Things Are,Luke Combs,46,43.67,34,4.94,84.26,86,3.99,album,18,False,2025-03-18,2025-08-02
+Whiskey Glasses,Morgan Wallen,9,46.22,39,3.38,85.33,86,3.91,album,14,False,2024-05-29,2024-07-25
+White Christmas - 1947 Version,Bing Crosby & Fred Astaire,56,25.29,11,10.49,82.82,90,2.96,album,12,False,2024-11-02,2024-12-27
+White Horse,Chris Stapleton,2,35.5,35,0.71,41.0,57,4.46,album,14,False,2024-11-11,2024-11-12
+Who,Jimin,129,7.66,1,5.13,92.8,95,2.85,album,7,False,2025-07-21,2025-11-27
+Who Told You (feat. Drake),J Hus & Drake,1,31.0,31,0.0,77.0,77,3.48,single,1,False,2024-06-11,2024-06-11
+Who’s Afraid of Little Old Me?,Taylor Swift,41,21.71,7,13.51,83.49,84,5.57,album,16,False,2025-04-21,2025-06-01
+Wick Man,Drake,1,21.0,21,0.0,0.0,0,3.02,album,29,True,2024-11-18,2024-11-18
+Wild Ones (feat. Jelly Roll),Jessie Murph & Jelly Roll,3,46.67,46,1.15,84.0,84,2.36,single,1,True,2025-04-14,2025-04-16
+Wildest Dreams (Taylor's Version),Taylor Swift,15,29.2,10,13.42,79.2,86,3.67,album,21,False,2024-10-29,2024-11-14
+Wildflower and Barley (feat. Allison Russell),Hozier,2,32.0,16,22.63,55.5,71,3.7,single,4,False,2025-03-24,2025-03-26
+Wind Up Missin’ You,Tucker Wetmore,13,46.08,41,3.2,71.69,80,2.77,single,1,True,2025-06-09,2025-10-07
+Winter Wonderland - Remastered,Bing Crosby,3,46.67,46,1.15,74.0,74,2.37,album,11,False,2024-12-25,2024-12-27
+Winter Wonderland - Spotify Singles Holiday,Laufey,4,39.75,37,2.06,87.0,87,2.21,single,1,False,2024-12-24,2024-12-27
+"Wit Da Racks (feat. 21 Savage, Travis Scott & Yak Gotti)",Young Thug,1,13.0,13,0.0,71.0,71,3.77,album,15,True,2024-06-25,2024-06-25
+Wonderful Christmastime - Edited Version / Remastered 2011,Paul McCartney,13,38.0,26,8.37,90.62,91,3.79,album,19,False,2024-12-11,2024-12-27
+Wonderland (Taylor's Version),Taylor Swift,6,30.5,19,9.22,68.17,84,4.09,album,21,False,2024-10-29,2024-11-03
+World Tour (Aquafina),Juice WRLD,1,49.0,49,0.0,68.0,68,2.6,single,2,True,2025-09-12,2025-09-12
+Wrong Ones (Feat. Tim McGraw),Post Malone,7,18.29,9,5.71,69.43,77,3.26,album,18,True,2025-08-17,2025-08-23
+YA YA,Beyoncé,7,31.14,20,10.71,78.14,81,4.58,album,27,True,2025-03-31,2025-04-06
+Yeah Glo!,GloRilla,28,44.29,32,4.38,77.75,80,2.38,album,12,True,2025-05-13,2025-07-05
+Yeah! (feat. Lil Jon & Ludacris),USHER,8,30.5,8,14.52,88.5,89,4.17,album,21,False,2025-02-13,2025-02-20
+You Are In Love (Taylor's Version),Taylor Swift,6,32.0,22,9.63,68.0,84,4.46,album,21,False,2024-10-29,2024-11-03
+You Broke My Heart,Drake,7,16.0,2,11.4,66.29,81,3.85,album,29,True,2024-11-18,2024-11-24
+You Proof,Morgan Wallen,302,32.6,9,12.03,84.66,88,2.62,album,36,False,2024-05-18,2025-08-12
+You Should Probably Leave,Chris Stapleton,2,46.0,46,0.0,86.0,86,3.56,album,14,False,2025-02-26,2025-02-27
+Young Metro,Future & Metro Boomin,13,29.54,6,16.2,77.62,86,3.42,album,17,True,2025-03-24,2025-04-06
+"Your Needs, My Needs",Noah Kahan,1,47.0,47,0.0,64.0,64,3.46,album,21,False,2024-06-11,2024-06-11
+Yours,Post Malone,1,46.0,46,0.0,37.0,37,3.32,album,18,False,2025-08-17,2025-08-17
+You’re Gonna Go Far,Noah Kahan,1,39.0,39,0.0,65.0,65,4.77,album,21,True,2024-06-11,2024-06-11
+You’re Losing Me (From The Vault),Taylor Swift,16,21.5,1,18.61,84.75,93,4.63,single,1,False,2024-11-30,2024-12-16
+Zoom (Bonus Track),Lil Uzi Vert,1,32.0,32,0.0,70.0,70,2.77,album,26,True,2024-07-02,2024-07-02
+act ii: date @ 8,4batz,53,37.28,25,6.9,85.17,89,1.89,single,1,True,2025-01-18,2025-03-13
+act ii: date @ 8 (feat. Drake) - remix,4batz & Drake,13,33.23,16,8.96,82.31,85,3.86,single,1,True,2025-03-10,2025-03-23
+all of me,21 Savage,10,22.9,8,14.15,83.6,87,3.3,album,15,True,2025-01-14,2025-01-24
+all-american bitch,Olivia Rodrigo,27,17.7,4,12.08,88.48,90,2.76,album,12,True,2024-09-10,2024-10-06
+august,Taylor Swift,39,30.64,9,10.81,91.79,93,4.37,album,16,False,2024-08-03,2025-08-03
+back at it,Gunna,1,44.0,44,0.0,67.0,67,3.1,album,15,True,2024-06-18,2024-06-18
+back to the moon,Gunna,2,27.5,18,13.44,71.0,73,3.22,album,15,True,2024-06-18,2024-06-19
+bad idea right?,Olivia Rodrigo,83,17.84,1,14.34,90.86,94,3.08,single,1,True,2024-08-13,2024-11-10
+ballad of a homeschooled girl,Olivia Rodrigo,14,18.57,10,7.42,85.14,87,3.39,album,12,False,2024-09-10,2024-09-23
+bye,Ariana Grande,13,16.85,2,9.54,85.92,88,2.75,album,13,False,2025-03-10,2025-03-23
+cardigan,Taylor Swift,13,45.54,36,5.47,91.54,92,3.99,album,16,False,2024-08-07,2024-10-26
+dangerous,21 Savage,5,26.2,15,11.86,79.0,82,4.42,album,15,True,2025-01-14,2025-01-18
+"dodger blue (feat. wallie the sensei, roddy ricch, siete7x)",Kendrick Lamar,1,10.0,10,0.0,28.0,28,2.19,album,12,False,2025-11-24,2025-11-24
+"dodger blue (feat. wallie the sensei, siete7x, roddy ricch)",Kendrick Lamar,2,7.5,7,0.71,81.0,82,2.19,album,12,True,2025-11-26,2025-11-27
+"dodger blue (feat. wallie the sensei, siete7x, roddy ricch))",Kendrick Lamar,1,8.0,8,0.0,77.0,77,2.19,album,12,True,2025-11-25,2025-11-25
+don't wanna break up again,Ariana Grande,11,26.36,7,13.37,84.18,86,2.9,album,13,True,2025-03-10,2025-03-21
+eternal sunshine,Ariana Grande,13,15.54,5,8.09,84.15,88,3.5,album,13,False,2025-03-10,2025-03-23
+euphoria,Kendrick Lamar,63,22.54,1,15.53,88.37,94,6.39,single,1,True,2025-05-02,2025-07-03
+exes,Tate McRae,66,37.62,13,10.09,83.74,91,2.66,single,2,True,2024-11-18,2025-02-10
+fukumean,Gunna,236,15.06,1,12.46,93.45,96,2.08,album,15,True,2024-06-19,2025-02-18
+get him back!,Olivia Rodrigo,34,17.15,3,14.22,90.35,92,3.52,album,12,True,2024-09-10,2024-10-13
+girl i’ve always been,Olivia Rodrigo,1,29.0,29,0.0,44.0,44,2.02,album,17,False,2025-03-24,2025-03-24
+gloria (feat. sza),Kendrick Lamar,1,17.0,17,0.0,26.0,26,4.79,album,12,False,2025-11-24,2025-11-24
+gloria (with sza),Kendrick Lamar,3,13.33,12,1.53,78.0,80,4.79,album,12,True,2025-11-25,2025-11-27
+"gnx (feat. hitta j3, youngthreat, peysoh)",Kendrick Lamar,4,14.0,11,2.16,65.25,80,3.23,album,12,False,2025-11-24,2025-11-27
+golden hour,JVKE,40,43.1,31,5.31,90.3,91,3.49,album,12,False,2024-05-18,2024-06-30
+greedy,Tate McRae,217,14.11,3,8.57,96.06,100,2.2,single,1,True,2024-09-17,2025-05-02
+heart pt. 6,Kendrick Lamar,4,10.75,9,1.5,66.5,81,4.87,album,12,False,2025-11-24,2025-11-27
+hey now (feat. dody6),Kendrick Lamar,4,5.0,5,0.0,68.25,83,3.62,album,12,False,2025-11-24,2025-11-27
+i like the way you kiss me,Artemas,100,19.09,3,11.98,96.23,100,2.38,single,1,False,2025-03-27,2025-07-04
+i wish i hated you,Ariana Grande,7,26.43,19,8.4,81.71,85,2.56,album,13,False,2025-03-10,2025-03-17
+if u think i'm pretty,Artemas,6,47.83,46,1.33,85.33,86,2.14,album,13,True,2025-04-11,2025-04-19
+imgonnagetyouback,Taylor Swift,15,29.73,22,8.26,86.2,88,3.7,album,31,False,2025-04-21,2025-05-05
+imperfect for you,Ariana Grande,7,29.29,22,7.91,81.0,84,3.04,album,13,True,2025-03-10,2025-03-17
+intro (end of the world),Ariana Grande,9,26.78,8,13.47,83.44,86,1.54,album,13,True,2025-03-10,2025-03-20
+just like me,21 Savage,2,46.0,46,0.0,73.5,75,3.86,album,15,True,2025-01-14,2025-01-15
+lacy,Olivia Rodrigo,18,22.39,10,12.33,85.5,87,2.95,album,12,False,2024-09-10,2024-09-27
+letter to my brudda,21 Savage,2,36.0,36,0.0,75.0,77,2.65,album,15,True,2025-01-14,2025-01-15
+logical,Olivia Rodrigo,14,19.14,9,9.61,85.14,87,3.87,album,12,False,2024-09-10,2024-09-23
+loml,Taylor Swift,22,29.95,13,12.79,81.59,82,4.62,album,16,True,2025-04-21,2025-05-12
+love hotel,leftovermax,1,37.0,37,0.0,95.0,95,2.54,single,1,False,2025-05-24,2025-05-24
+love is embarrassing,Olivia Rodrigo,14,20.79,12,8.29,84.93,87,2.58,album,12,True,2024-09-10,2024-09-23
+luther (with sza),Kendrick Lamar,4,2.75,2,0.5,51.5,64,2.96,album,12,False,2025-11-24,2025-11-27
+making the bed,Olivia Rodrigo,14,14.57,7,6.48,85.36,88,3.31,album,12,False,2024-09-10,2024-09-23
+man at the garden,Kendrick Lamar,4,6.25,4,1.71,68.5,83,3.89,album,12,False,2025-11-24,2025-11-27
+meet the grahams,Kendrick Lamar,13,13.92,5,7.93,84.23,88,6.54,single,1,True,2025-05-07,2025-05-19
+misses,Dominic Fike,2,47.5,47,0.71,85.0,85,1.24,album,8,False,2025-07-24,2025-07-31
+n.h.i.e.,21 Savage,14,21.29,6,12.36,84.93,88,2.4,album,15,True,2025-01-14,2025-01-27
+née-nah,21 Savage,27,24.15,4,15.4,87.78,90,3.68,album,15,True,2025-01-14,2025-02-10
+obsessed,Olivia Rodrigo,27,29.07,9,11.02,85.48,90,2.84,album,17,True,2025-03-24,2025-04-20
+on one tonight,Gunna,3,48.67,48,1.15,81.33,82,1.51,album,20,True,2025-11-11,2025-11-23
+one of wun,Gunna,68,38.69,19,9.16,84.21,86,2.4,album,20,True,2025-05-17,2025-11-07
+ordinary things (feat. Nonna),Ariana Grande,5,36.0,28,7.81,75.0,82,2.81,album,13,False,2025-03-10,2025-03-15
+peekaboo (feat. azchike),Kendrick Lamar,4,10.25,9,0.96,66.0,81,2.6,album,12,False,2025-11-24,2025-11-27
+pop ur shit,21 Savage,5,23.2,13,11.63,79.4,82,3.22,album,15,True,2025-01-14,2025-01-18
+pretty isn’t pretty,Olivia Rodrigo,14,29.14,14,13.88,83.93,86,3.32,album,12,True,2024-09-10,2024-09-23
+prove it,21 Savage,3,30.67,25,9.81,75.67,78,3.46,album,15,True,2025-01-14,2025-01-16
+red sky,21 Savage,3,34.33,29,9.24,75.33,78,2.95,album,15,True,2025-01-14,2025-01-16
+redrum,21 Savage,116,15.9,2,15.53,93.62,97,4.51,album,15,True,2025-01-14,2025-05-18
+reincarnated,Kendrick Lamar,4,6.5,6,0.58,68.25,83,4.6,album,12,False,2025-11-24,2025-11-27
+run for the hills,Tate McRae,4,40.25,34,7.23,77.25,81,2.4,album,14,True,2024-12-10,2024-12-14
+scared of my guitar,Olivia Rodrigo,1,32.0,32,0.0,44.0,44,4.4,album,17,False,2025-03-24,2025-03-24
+see the real,21 Savage,2,39.0,39,0.0,74.5,76,3.03,album,15,True,2025-01-14,2025-01-15
+should've wore a bonnet,21 Savage,4,31.0,21,12.25,76.5,79,3.11,album,15,True,2025-01-14,2025-01-17
+sneaky,21 Savage,6,30.5,17,13.03,80.5,84,3.36,album,15,True,2025-01-14,2025-01-20
+so american,Olivia Rodrigo,6,30.33,20,8.04,73.67,81,2.83,album,17,True,2025-03-24,2025-03-30
+squabble up,Kendrick Lamar,4,1.0,1,0.0,71.25,86,2.63,album,12,False,2025-11-24,2025-11-27
+stranger,Olivia Rodrigo,1,30.0,30,0.0,43.0,43,3.21,album,17,False,2025-03-24,2025-03-24
+supernatural,Ariana Grande,12,23.83,9,12.25,84.83,87,2.72,album,13,False,2025-03-10,2025-03-22
+teenage dream,Olivia Rodrigo,9,27.22,17,13.03,82.11,85,3.71,album,12,False,2024-09-10,2024-09-19
+thanK you aIMee,Taylor Swift,9,28.78,18,9.73,84.67,87,4.4,album,31,True,2025-04-21,2025-04-29
+the boy is mine,Ariana Grande,23,20.04,4,14.98,87.39,89,2.89,album,13,True,2025-03-10,2025-04-06
+the grudge,Olivia Rodrigo,22,20.73,6,14.77,86.73,89,3.16,album,12,True,2024-09-10,2024-10-01
+true story,Ariana Grande,8,25.0,11,12.2,83.0,86,2.72,album,13,False,2025-03-10,2025-03-18
+tv off (feat. lefty gunplay),Kendrick Lamar,4,3.25,2,1.89,69.25,85,3.68,album,12,False,2025-11-24,2025-11-27
+un x100to,Grupo Frontera & Bad Bunny,100,19.6,3,15.9,93.32,100,3.24,single,1,False,2024-05-18,2024-09-17
+us. (feat. Taylor Swift),Gracie Abrams,8,29.75,12,12.3,71.5,80,4.04,album,13,True,2025-06-22,2025-06-29
+vampire,Olivia Rodrigo,258,22.34,1,14.7,94.69,99,3.66,single,1,True,2024-07-02,2025-03-30
+wacced out murals,Kendrick Lamar,4,3.5,2,1.0,70.75,84,5.28,album,12,False,2025-11-24,2025-11-27
+we can't be friends (wait for your love),Ariana Grande,116,22.97,1,14.17,92.16,96,3.81,album,13,False,2025-03-10,2025-07-26
+we fell in love in october,girl in red,11,46.64,38,3.75,86.73,91,3.07,single,3,False,2024-10-04,2025-10-11
+x2,Lil Uzi Vert,3,24.0,8,17.69,76.33,78,3.91,album,26,True,2024-07-02,2024-07-04
+"yes, and?",Ariana Grande,43,15.58,1,10.83,91.35,97,3.58,single,1,True,2025-01-14,2025-03-23
+you look like you love me (feat. Riley Green),Ella Langley & Riley Green,18,36.61,22,8.26,78.78,83,3.74,single,1,False,2025-06-29,2025-07-20
