@@ -1,0 +1,8 @@
+# Atlantic US Top 50 Playlist Performance & Song Popularity Trend Analysis
+A historical playlist analytics project for Atlantic Recording Corporation, analyzing US Top 50 daily playlist snapshots (May 2024 – November 2025) to understand ranking stability, chart longevity, artist dominance, and how song attributes relate to popularity.
+## Live Dashboard[Add your Streamlit Cloud link here once deployed]
+## Project OverviewThis project focuses on **historical playlist analytics**, not prediction or recommendation. It covers:- Ranking stability vs. volatility- Chart longevity (Days on Chart)- Artist dominance and repeat appearances- How duration, explicit content, and album type relate to popularity
+## Files| File | Description ||---|---|| `app.py` | Streamlit dashboard application || `cleaned_playlist_data.csv` | Cleaned, validated row-level playlist data || `song_level_features.csv` | Song-level KPI table (Days on Chart, Avg Rank, etc.) || `artist_level_features.csv` | Artist-level KPI table (Dominance Index, etc.) || `requirements.txt` | Python dependencies |
+## Key KPIs- **Days on Chart** — longevity indicator- **Average Rank** — overall performance- **Rank Volatility Index** — stability metric- **Popularity Score Trend** — listener engagement- **Artist Dominance Index** — market presence- **Explicit Content Share** — content strategy insight
+## Dashboard Modules1. Playlist Timeline Explorer2. Song Ranking Trend Charts3. Artist Dominance Leaderboard4. Popularity vs Rank Scatter5. Explicit vs Non-Explicit Performance Panels
+## Run Locally```bashpip install -r requirements.txtstreamlit run app.py
