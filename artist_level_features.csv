@@ -1,0 +1,298 @@
+artist,unique_songs,total_days_charted,average_rank,best_rank_ever,avg_popularity,artist_dominance_index
+Taylor Swift,96,438,24.55,1,87.1,0.901
+Zach Bryan,35,546,25.61,1,86.03,0.679
+Morgan Wallen,10,540,30.61,1,85.41,0.542
+"Tyler, The Creator",16,445,25.29,1,88.4,0.486
+Drake,35,325,26.3,1,84.63,0.476
+Travis Scott,31,332,25.76,1,88.6,0.462
+Noah Kahan,8,437,18.82,1,90.18,0.437
+SZA,3,401,26.2,3,91.66,0.377
+Billie Eilish,12,333,20.36,2,92.77,0.362
+Sabrina Carpenter,14,316,17.61,1,90.2,0.357
+Olivia Rodrigo,18,280,21.51,1,90.26,0.345
+Luke Combs,6,335,28.11,3,86.56,0.333
+Kendrick Lamar,20,247,17.05,1,87.73,0.326
+J. Cole,13,275,33.46,3,88.78,0.315
+Gunna,5,308,20.74,1,91.07,0.303
+Teddy Swims,1,329,23.5,5,90.92,0.301
+Post Malone,27,179,26.04,1,77.92,0.3
+Benson Boone,3,307,23.65,1,89.32,0.291
+Peso Pluma,11,234,32.54,7,88.68,0.266
+Bad Bunny,22,168,22.76,1,85.35,0.264
+Future & Metro Boomin,19,169,23.04,1,84.86,0.249
+Tate McRae,5,249,21.26,3,91.89,0.249
+Ariana Grande,15,185,21.49,1,88.82,0.242
+Chappell Roan,6,232,20.65,1,88.66,0.238
+Doja Cat,4,238,19.53,1,84.61,0.233
+Lil Uzi Vert,35,54,29.98,2,78.42,0.228
+Hozier,4,230,16.72,1,82.72,0.226
+Shaboozey,1,226,10.77,1,85.39,0.206
+Mitski,1,224,16.57,2,95.04,0.205
+Frank Ocean,2,217,39.73,23,89.75,0.203
+Tommy Richman,3,206,18.34,1,88.41,0.199
+¥$ & Kanye West & Ty Dolla $ign,18,113,22.43,1,78.68,0.192
+Beyoncé,25,72,23.31,1,70.62,0.191
+Dasha,2,198,32.06,14,88.48,0.186
+Lil Tecca,3,186,25.03,12,82.83,0.18
+21 Savage,13,116,20.17,2,89.12,0.169
+The Neighbourhood,1,183,37.25,21,90.93,0.167
+Eslabon Armado,1,170,18.96,1,89.68,0.155
+KAROL G,6,140,35.06,13,89.69,0.154
+Fuerza Regida,4,149,30.41,8,92.14,0.152
+Jack Harlow,1,157,10.75,1,94.97,0.143
+Eminem,17,62,23.62,2,81.46,0.14
+The Kid LAROI,2,147,31.68,20,87.48,0.139
+Djo,1,148,25.4,3,94.74,0.135
+Kali Uchis,2,140,36.21,6,88.03,0.133
+Gracie Abrams,4,125,23.04,1,85.47,0.13
+Jimin,2,131,8.27,1,92.66,0.125
+Michael Marcagi,1,127,38.98,13,89.14,0.116
+Dua Lipa,4,110,24.42,8,93.34,0.116
+Xavi,3,106,22.09,5,95.62,0.107
+Nicki Minaj,11,59,26.1,6,83.9,0.106
+FloyyMenor & Cris Mj,1,113,31.03,13,96.22,0.103
+Yng Lvcas & Peso Pluma,1,113,23.83,6,98.01,0.103
+JID,1,110,25.55,9,92.18,0.1
+Miley Cyrus,3,97,27.04,4,87.56,0.099
+The Weeknd,5,85,39.33,10,83.71,0.098
+Artemas,2,100,20.72,3,95.61,0.096
+Nicki Minaj & Ice Spice & Aqua,1,104,18.75,1,92.01,0.094
+Lady Gaga & Bruno Mars,1,103,3.47,1,96.81,0.094
+Lil Durk,4,86,22.17,3,82.88,0.094
+Metro Boomin,9,56,30.45,4,90.12,0.093
+PinkPantheress & Ice Spice,1,100,24.87,9,94.21,0.091
+Don Toliver,6,67,39.09,9,81.1,0.087
+Post Malone & Morgan Wallen,1,95,3.91,1,93.92,0.086
+Bryson Tiller,2,89,23.12,4,85.0,0.086
+Charli xcx,6,65,33.56,8,84.93,0.085
+Gigi Perez,1,94,14.78,3,85.72,0.085
+Harry Styles,1,92,33.72,23,92.78,0.083
+Kanye West & Ty Dolla $ign,16,4,19.33,1,79.94,0.082
+Kenya Grace,1,83,33.24,15,95.8,0.075
+Jung Kook & Latto,1,81,22.36,1,98.65,0.073
+Rich Amiri,1,81,24.84,13,85.69,0.073
+Grupo Frontera & Bad Bunny,1,79,13.33,3,99.2,0.072
+GloRilla,4,60,39.82,22,76.89,0.07
+Myles Smith,1,76,37.43,23,90.75,0.069
+Flo Milli,1,76,17.84,5,87.28,0.069
+Mariah Carey,1,75,17.27,2,91.0,0.068
+Charli xcx & Billie Eilish,2,69,26.13,4,90.78,0.068
+TV Girl,2,67,43.26,35,89.73,0.066
+FIFTY FIFTY,1,71,25.75,7,98.2,0.064
+Junior H & Peso Pluma,1,70,30.84,21,94.93,0.063
+NewJeans,4,51,26.9,9,90.11,0.062
+Bailey Zimmerman,1,67,33.88,21,85.27,0.061
+Megan Thee Stallion,3,56,30.75,1,82.39,0.061
+Steve Lacy,2,61,44.89,35,87.05,0.06
+Kanye West,2,61,41.2,24,90.26,0.06
+Wham!,1,63,19.67,4,79.76,0.057
+David Kushner,2,56,37.2,17,96.96,0.056
+Brenda Lee,1,61,12.8,1,89.66,0.055
+Young Thug,10,8,22.53,3,74.88,0.054
+The Weeknd & Playboi Carti,1,60,10.08,1,90.7,0.054
+NLE Choppa,3,48,38.17,17,73.4,0.054
+Hanumankind & Kalmi,1,59,28.17,13,89.78,0.053
+The Marías,2,52,36.78,17,80.09,0.052
+BigXthaPlug,1,58,42.21,31,80.33,0.052
+Richy Mitch & The Coal Miners,1,55,43.07,32,88.95,0.05
+Sexyy Red,1,56,36.43,26,79.41,0.05
+Calle 24 & Chino Pacas & Fuerza Regida,1,56,44.59,36,93.93,0.05
+Bing Crosby & Fred Astaire,1,56,25.29,11,82.82,0.05
+Oliver Anthony Music,1,54,15.72,1,86.65,0.049
+Bobby Helms,1,54,13.74,2,87.19,0.049
+4batz,1,53,37.28,25,85.17,0.048
+Good Neighbours,1,53,40.08,27,84.57,0.048
+Ice Spice,2,48,36.81,14,81.75,0.048
+The Weeknd & JENNIE & Lily-Rose Depp,1,53,30.42,15,96.02,0.048
+Tyla,1,52,31.42,11,94.37,0.047
+Rema,1,52,42.56,35,81.4,0.047
+Frank Sinatra,4,34,33.16,17,85.95,0.046
+The Weeknd & Madonna,2,45,26.04,15,94.18,0.046
+Nat King Cole,4,34,27.92,10,83.58,0.046
+Myke Towers,1,49,38.02,29,98.69,0.044
+Andy Williams,2,42,15.07,4,76.24,0.043
+Dean Martin,2,42,17.11,6,89.91,0.043
+Bizarrap & Peso Pluma,1,46,23.46,3,95.43,0.041
+Future,8,6,33.94,10,71.82,0.041
+Hotel Ugly,1,45,46.36,41,89.24,0.04
+Peso Pluma & Natanael Cano,1,44,27.93,12,95.27,0.039
+Kali,1,43,18.05,12,88.02,0.039
+Burl Ives,2,37,18.13,7,87.38,0.038
+YG Marley,1,42,34.45,21,92.9,0.038
+Michael Bublé,2,37,19.46,9,81.75,0.038
+Kelly Clarkson,2,34,22.92,10,83.47,0.036
+Perry Como,2,34,27.89,15,86.03,0.036
+JVKE,1,40,43.1,31,90.3,0.036
+ROSÉ & Bruno Mars,1,39,9.05,1,94.72,0.035
+Toby Keith,6,10,24.76,5,75.12,0.035
+Oscar Maydon & Fuerza Regida,1,39,23.59,11,91.33,0.035
+Yeat,1,38,23.21,14,83.87,0.034
+Elvis Presley,2,30,34.55,16,86.03,0.032
+Olivia Rodrigo & Rachel Zegler & Flatland Cavalry,1,35,36.51,13,78.77,0.031
+Noah Kahan & Post Malone,1,35,32.8,4,84.66,0.031
+The Ronettes,1,34,19.38,9,79.94,0.03
+Central Cee & Lil Baby,1,34,24.91,11,86.62,0.03
+Laufey,2,28,44.11,30,82.82,0.03
+Natanael Cano & Peso Pluma & Gabito Ballesteros,1,34,33.06,20,94.24,0.03
+José Feliciano,1,34,20.38,8,84.82,0.03
+Travis Scott & Bad Bunny & The Weeknd,1,33,18.91,2,87.18,0.029
+Lay Bankz,1,33,34.76,16,87.09,0.029
+d4vd,2,26,46.0,32,89.42,0.028
+Darlene Love,1,31,34.45,20,81.65,0.028
+Chino Pacas,1,32,43.06,31,91.69,0.028
+Sophie Ellis-Bextor,1,31,35.19,20,87.61,0.028
+USHER,5,8,33.4,8,86.27,0.027
+Charli XCX,1,30,37.33,23,87.93,0.027
+Bing Crosby,3,18,39.65,23,82.35,0.026
+Addison Rae,1,29,38.86,26,87.38,0.026
+Justin Bieber,1,29,40.0,29,89.86,0.026
+Linkin Park,3,17,35.0,17,85.63,0.025
+Post Malone & Blake Shelton,1,28,25.43,9,80.79,0.025
+Peso Pluma & Anitta,1,27,42.41,30,92.78,0.024
+Koe Wetzel & Jessie Murph,1,26,31.81,17,75.46,0.023
+Troye Sivan,2,20,37.6,24,83.7,0.023
+Eartha Kitt,1,23,30.57,18,77.3,0.02
+The Beach Boys,1,22,31.5,18,82.59,0.019
+Drake & SZA,1,21,9.76,1,83.38,0.018
+Jimmy Buffett,4,3,30.14,6,65.86,0.018
+Grupo Frontera,1,21,43.19,21,71.19,0.018
+Playboi Carti,1,20,18.3,1,89.25,0.017
+Jung Kook,2,14,26.7,17,79.95,0.017
+Quavo & Lana Del Rey,1,20,28.45,15,84.35,0.017
+Post Malone & Luke Combs,1,20,23.05,9,80.5,0.017
+Chuck Berry,1,20,32.65,21,86.2,0.017
+Drake & 21 Savage,1,18,44.06,38,90.0,0.016
+Ella Langley & Riley Green,1,18,36.61,22,78.78,0.016
+Brent Faiyaz,1,18,43.39,34,85.56,0.016
+Ice Spice & Central Cee,1,17,38.65,28,83.88,0.015
+Arctic Monkeys,1,17,43.76,36,80.18,0.015
+One Direction,2,10,33.62,16,86.75,0.014
+*NSYNC,1,16,36.31,24,85.25,0.014
+Miguel,1,16,43.62,35,90.88,0.014
+Lana Del Rey,1,15,39.6,10,86.67,0.013
+The Weeknd & Playboi Carti & Madonna,2,9,22.11,3,83.0,0.013
+Rauw Alejandro,2,9,36.5,14,78.7,0.013
+Bruce Springsteen,2,9,27.44,8,82.33,0.013
+Jimin & Loco,1,14,40.71,24,88.64,0.012
+Lil Mabu,1,14,27.93,10,86.5,0.012
+Wicked Movie Cast & Cynthia Erivo & Ariana Grande,3,3,38.6,22,74.0,0.012
+Tucker Wetmore,1,13,46.08,41,71.69,0.011
+Koe Wetzel,2,7,45.29,42,68.71,0.011
+Zach Bryan & Noah Kahan,1,13,24.08,4,66.08,0.011
+4batz & Drake,1,13,33.23,16,82.31,0.011
+Paul McCartney,1,13,38.0,26,90.62,0.011
+ILLIT,1,12,43.67,35,90.33,0.01
+Jung Kook & Jack Harlow,1,12,26.33,9,66.25,0.01
+Zac Brown Band,2,6,31.67,10,80.67,0.01
+Various Artists,2,6,21.71,4,62.43,0.01
+Vince Guaraldi Trio,1,12,39.75,27,82.92,0.01
+Eagles,1,12,38.42,24,87.33,0.01
+Fleetwood Mac,1,12,44.0,38,88.67,0.01
+girl in red,1,11,46.64,38,86.73,0.009
+The Jackson 5,2,5,40.25,33,85.5,0.009
+Michael Jackson,2,5,24.83,7,70.67,0.009
+Chris Stapleton,2,4,40.75,35,63.5,0.008
+Kaliii,1,10,40.0,24,91.0,0.008
+Lady Gaga,2,4,29.5,16,74.5,0.008
+Selena Gomez,1,10,35.6,21,75.8,0.008
+Lil Durk & J. Cole,1,10,4.5,3,87.2,0.008
+Tito Double P,1,9,48.0,45,88.0,0.007
+Cardi B & Megan Thee Stallion,1,9,36.67,26,78.67,0.007
+Andrew Gold,2,2,24.67,11,75.33,0.006
+Mustard & Travis Scott,1,7,38.14,29,70.71,0.006
+Lyrical Lemonade & Juice WRLD & Cordae,1,7,39.29,28,76.86,0.006
+Jordan Adetunji,1,7,44.86,43,87.71,0.006
+Eminem & Big Sean & BabyTron,1,8,32.88,15,77.75,0.006
+Jason Aldean,1,7,12.14,6,77.29,0.006
+Tyler Childers,1,7,43.14,37,72.43,0.006
+Tainy,1,8,29.75,23,85.75,0.006
+Childish Gambino,1,7,42.0,28,69.29,0.006
+"Bobby ""Boris"" Pickett & The Crypt-Kickers",1,8,26.25,2,77.75,0.006
+Ryan Gosling,1,8,43.12,29,74.5,0.006
+Rihanna,2,2,41.0,38,82.0,0.006
+Noah Kahan & Hozier,1,8,21.75,2,71.62,0.006
+Ivan Cornejo,2,2,41.5,37,33.0,0.006
+Rod Wave,2,2,38.0,33,33.0,0.006
+Zach Bryan & Bon Iver,1,8,25.75,13,55.5,0.006
+Offset,1,6,31.17,25,64.5,0.005
+Megan Thee Stallion & RM,1,6,44.17,38,80.0,0.005
+John Lennon,1,6,38.33,32,92.0,0.005
+Surf Curse,1,6,41.33,37,82.33,0.005
+Sia,1,5,43.6,38,94.0,0.004
+$uicideboy$,1,5,40.6,24,57.0,0.004
+Juice WRLD & Eminem & benny blanco,1,5,38.4,32,78.8,0.004
+Cardi B,1,5,33.0,28,69.0,0.004
+Camila Cabello & Playboi Carti,1,5,41.2,31,80.8,0.004
+Donny Hathaway,1,5,35.8,30,74.0,0.004
+Toosii & Future,1,4,41.5,34,56.5,0.003
+Creedence Clearwater Revival,1,4,37.25,30,86.5,0.003
+Tom Petty and the Heartbreakers,1,4,22.5,11,75.0,0.003
+Band Aid,1,4,41.5,39,89.0,0.003
+Peso Pluma & Tito Double P & Joel De La P,1,4,45.25,42,60.5,0.003
+Ray Parker Jr.,1,4,26.75,1,72.0,0.003
+Beyoncé & Kendrick Lamar,1,4,22.25,12,72.0,0.003
+Zach Bryan & Maggie Rogers,1,4,49.5,49,84.0,0.003
+Gene Autry,1,4,36.25,35,86.0,0.003
+The Beatles,1,4,34.5,24,79.5,0.003
+Myke Towers & Bad Bunny,1,3,40.67,36,85.0,0.002
+Lil Uzi Vert & sped up nightcore & ARIZONATEARS,1,3,47.0,46,89.0,0.002
+Moneybagg Yo,1,3,39.67,38,64.33,0.002
+Mark Ambor,1,3,48.0,47,93.0,0.002
+Kenny Chesney,1,3,43.67,43,78.0,0.002
+Lynyrd Skynyrd,1,3,33.0,26,84.33,0.002
+Van Morrison,1,3,40.0,29,85.0,0.002
+OneRepublic,1,3,45.67,43,95.0,0.002
+Don McLean,1,3,24.67,15,80.0,0.002
+The Killers,1,3,33.0,21,86.67,0.002
+Gayla Peevey,1,3,44.33,44,83.0,0.002
+Jessie Murph & Jelly Roll,1,3,46.67,46,84.0,0.002
+Rockwell,1,3,19.33,7,78.33,0.002
+"Earth, Wind & Fire & sped up + slowed",1,3,19.67,12,83.33,0.002
+Katy Perry,1,3,20.0,18,73.67,0.002
+mgk & Jelly Roll,1,2,49.0,49,52.5,0.001
+Dominic Fike,1,2,47.5,47,85.0,0.001
+Toosii,1,2,50.0,50,86.0,0.001
+Charli xcx & Lorde,1,2,25.0,25,33.5,0.001
+Thomas Rhett,1,2,13.0,13,12.5,0.001
+Darius Rucker,1,2,41.0,41,83.0,0.001
+Daryl Hall & John Oates,1,2,35.0,30,83.0,0.001
+Kacey Musgraves,1,2,38.0,28,65.0,0.001
+KSI & Trippie Redd,1,2,48.0,46,75.0,0.001
+Ice Spice & Nicki Minaj,1,2,49.0,49,87.0,0.001
+Jung Kook & Latto & BTS,1,2,4.0,4,92.0,0.001
+John Denver,1,2,42.0,42,78.5,0.001
+Alan Jackson,1,2,24.0,12,66.0,0.001
+Kid Rock,1,2,28.0,28,78.5,0.001
+Ken Carson,1,2,47.0,47,0.0,0.001
+Conan Gray,1,2,45.0,42,88.5,0.001
+Justin Timberlake,1,2,44.0,44,73.0,0.001
+Dj Agus Lima,1,2,26.0,26,24.0,0.001
+Kendrick Lamar & SZA,1,1,46.0,46,87.0,0.0
+Luis R Conriquez & Neton Vega,1,1,50.0,50,89.0,0.0
+Pharrell Williams & Miley Cyrus,1,1,45.0,45,73.0,0.0
+Peso Pluma & Junior H & Eslabon Armado,1,1,42.0,42,70.0,0.0
+Peso Pluma & Junior H & Oscar Maydon,1,1,32.0,32,0.0,0.0
+blink-182,1,1,40.0,40,0.0,0.0
+beabadoobee & Laufey,1,1,32.0,32,0.0,0.0
+Bill Withers,1,1,49.0,49,86.0,0.0
+BTS,1,1,17.0,17,83.0,0.0
+André 3000,1,1,31.0,31,37.0,0.0
+Paul Russell,1,1,36.0,36,87.0,0.0
+Marvin Gaye & Tammi Terrell,1,1,50.0,50,87.0,0.0
+Noah Kahan & Kacey Musgraves,1,1,46.0,46,31.0,0.0
+Stromae & Pomme & Arcane,1,1,36.0,36,77.0,0.0
+Talking Heads,1,1,46.0,46,78.0,0.0
+J Hus & Drake,1,1,31.0,31,77.0,0.0
+KAROL G & Feid & DFZM,1,1,47.0,47,69.0,0.0
+Juice WRLD,1,1,49.0,49,68.0,0.0
+SZA & Justin Bieber,1,1,36.0,36,0.0,0.0
+Rick James,1,1,35.0,35,76.0,0.0
+Drake & Central Cee,1,1,46.0,46,72.0,0.0
+Charli xcx & Troye Sivan,1,1,46.0,46,72.0,0.0
+The Living Tombstone,1,1,43.0,43,71.0,0.0
+Dropkick Murphys,1,1,48.0,48,74.0,0.0
+The Kid LAROI & Jung Kook & Central Cee,1,1,33.0,33,55.0,0.0
+Bonnie Tyler,1,1,36.0,36,80.0,0.0
+Blue Öyster Cult,1,1,50.0,50,77.0,0.0
+Twenty One Pilots,1,1,48.0,48,76.0,0.0
+leftovermax,1,1,37.0,37,95.0,0.0
